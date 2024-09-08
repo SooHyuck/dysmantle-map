@@ -1,5 +1,6 @@
 // Create the marker icons
 var iconBuriedTreasure = generateIcon("icon-buried-treasure");
+var iconBuriedTeleporter = generateIcon("icon-buried-teleporter");
 var iconArenaObelisk = generateIcon("icon-arena-obelisk");
 var iconFishingSpot = generateIcon("icon-fishing-spot");
 var iconWishingWell = generateIcon("icon-wishing-well");
@@ -26,6 +27,7 @@ var iconLock = generateIcon("icon-lock");
 var iconManaChamber = generateIcon("icon-mana-chamber");
 var iconEnergyRelay = generateIcon("icon-energy-relay");
 var iconStash = generateIcon("icon-stash");
+var iconUnknown = generateIcon("icon-unknown");
 var iconLock1 = generateIcon("icon-lock1");
 var iconLock2 = generateIcon("icon-lock2");
 var iconLock3 = generateIcon("icon-lock3");
@@ -42,6 +44,7 @@ function getIconPath(icon) {
 	var r;
 	switch (icon) {
 		case "iconBuriedTreasure": r = "icon-buried-treasure"; break;
+		case "iconBuriedTeleporter": r = "icon-buried-teleporter"; break;
 		case "iconArenaObelisk": r = "icon-arena-obelisk"; break;
 		case "iconFishingSpot": r = "icon-fishing-spot"; break;
 		case "iconWishingWell": r = "icon-wishing-well"; break;
@@ -67,6 +70,7 @@ function getIconPath(icon) {
 		case "iconManaChamber": r = "icon-mana-chamber"; break;
 		case "iconEnergyRelay": r = "icon-energy-relay"; break;
 		case "iconStash": r = "icon-stash"; break;
+		case "iconUnknown": r = "icon-unknown"; break;
 		case "iconLock":
 		case "iconLock1":
 		case "iconLock2":
@@ -86,7 +90,7 @@ function getAreaName(area) {
 		case 4: n = "Hedgefield"; break;
 		case 5: n = "Everglade"; break;
 		case 6: n = "Borealis"; break;
-		case 7: n = "Acrturus"; break;
+		case 7: n = "Arcturus"; break;
 		case 8: n = "Hibernus"; break;
 		case 9: n = "Frore"; break;
 		case 10: n = "Central"; break;
@@ -100,7 +104,20 @@ function getAreaName(area) {
 		case 18: n = "Serpent's Crossing"; break;
 		case 19: n = "Polaris"; break;
 		case 20: n = "Undercrown"; break;
-		case 21: n = "Underworld"; break;
+		case 21: n = "Capper"; break;
+		case 22: n = "Sinister"; break;
+		case 23: n = "Dexter"; break;
+		case 24: n = "Nona"; break;
+		case 25: n = "North Decima"; break;
+		case 26: n = "Morta"; break;
+		case 27: n = "South Decima"; break;
+		case 28: n = "Vivarium Nexus"; break;
+		case 29: n = "Isle of Mana"; break;
+		case 30: n = "Isle of Doom"; break;
+		case 31: n = "Arboretum"; break;
+		case 32: n = "Frostarium"; break;
+		case 33: n = "Terrarium"; break;
+		case 34: n = "Desolatum"; break;
 	}
 	return n;
 }

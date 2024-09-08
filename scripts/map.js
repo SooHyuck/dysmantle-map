@@ -3,6 +3,7 @@ const maxBoundsIsland = [[0, 0], [-384, 768]];
 const maxBoundsUndercrown = [[0, 0], [(9 * -8), (14 * 8)]];
 const maxBoundsDlc1 = [[0, 0], [(23 * -8), (44 * 8)]];
 const maxBoundsDlc2 = [[0, 0], [(23 * -8), (47 * 8)]];
+const maxBoundsDlc3 = [[0, 0], [(12 * -8), (24 * 8)]];
 const mapNativeMaxZoom = 5;
 var alwaysShowIcons = ['iconLinkTower', 'iconCampfire', 'iconRift'];
 var currentAlwaysShowIcons = alwaysShowIcons;
@@ -20,6 +21,9 @@ var lastBoundsIsland = [
 ], lastBoundsDlc2 = [
 	[maxBoundsDlc2[1][0], 0], // SW
 	[0, maxBoundsDlc2[1][1]]  // NE
+], lastBoundsDlc3 = [
+	[maxBoundsDlc3[1][0], 0], // SW
+	[0, maxBoundsDlc3[1][1]]  // NE
 ];
 
 // Array that contains all polygons and their area name, array for the groups so we clear them later
@@ -59,6 +63,12 @@ const dlc2Layer = L.tileLayer('tiles_dlc2/{z}/{x}/{y}.jpg', {
 	maxNativeZoom: mapNativeMaxZoom,
 	minNativeZoom: 3,
 	bounds: maxBoundsDlc2,
+	tms: false,
+});
+const dlc3Layer = L.tileLayer('tiles_dlc3/{z}/{x}/{y}.jpg', {
+	maxNativeZoom: mapNativeMaxZoom,
+	minNativeZoom: 3,
+	bounds: maxBoundsDlc3,
 	tms: false,
 });
 
@@ -125,6 +135,14 @@ L.control.mousePosition({
 			});
 			return `Point: ${lng}°, ${lat}°` + (area != null ? `<br>${area}` : "<br>Doomsday");
 		}
+		else if (map.hasLayer(dlc3Layer)) {
+			var area;
+			borderPolygons.forEach(b => {
+				if (area == null && b.polygon.contains(e.latlng))
+					area = b.name;
+			});
+			return `Point: ${lng}°, ${lat}°` + (area != null ? `<br>${area}` : "<br>Pets & Dungeons");
+		}
 		else {
 			return `Point: ${lng}°, ${lat}°`;
 		}
@@ -155,6 +173,7 @@ var groupQuest = createSub();
 var groupRadio = createSub();
 var groupBoss = createSub();
 var groupBuriedTreasure = createSub();
+var groupBuriedTeleporter = createSub();
 var groupChest = createSub();
 var groupFishingSpot = createSub();
 var groupArenaObelisk = createSub();
@@ -176,6 +195,7 @@ var groupRift = createSub();
 var groupManaChamber = createSub();
 var groupEnergyRelay = createSub();
 var groupStash = createSub();
+var groupUnknown = createSub();
 var groupLock = createSub();
 var groupLock1 = createSub();
 var groupLock2 = createSub();
@@ -203,6 +223,7 @@ var groupedOverlays = {
 		[`${getIcon("icon-radio")} Radio`]: groupRadio,
 		[`${getIcon("icon-boss")} Boss`]: groupBoss,
 		[`${getIcon("icon-buried-treasure")} Buried Treasure`]: groupBuriedTreasure,
+		[`${getIcon("icon-buried-teleporter")} Buried Teleporter`]: groupBuriedTeleporter,
 		[`${getIcon("icon-chest")} Timed Chest`]: groupChest,
 		[`${getIcon("icon-fishing-spot")} Fishing Spot`]: groupFishingSpot,
 		[`${getIcon("icon-arena-obelisk")} Arena Obelisk`]: groupArenaObelisk,
@@ -223,10 +244,12 @@ var groupedOverlays = {
 		[`${getIcon("icon-mana-chamber")} Mana Chamber`]: groupManaChamber,
 		[`${getIcon("icon-energy-relay")} Energy Relay`]: groupEnergyRelay,
 		[`${getIcon("icon-stash")} Stash`]: groupStash,
+		[`${getIcon("icon-unknown")} Dog house`]: groupUnknown,
 		[`${getIcon("icon-lock")} Locked Door`]: groupLock,
 		[`${getIcon("icon-lock1")} Locked Door - Basic Lockpick`]: groupLock1,
 		[`${getIcon("icon-lock2")} Locked Door - Expert Lockpick`]: groupLock2,
 		[`${getIcon("icon-lock3")} Locked Door - Master Lockpick`]: groupLock3,
+		
 	}
 };
 
@@ -353,9 +376,15 @@ function switchMap(pos) {
 		map.addLayer(dlc2Layer);
 		currentIsland = "dlc2";
 		updateBounds(maxBoundsDlc2, lastBoundsDlc2, pos);
-	} else {
+	} else if (map.hasLayer(dlc2Layer)) {
 		lastBoundsDlc2 = map.getBounds();
 		map.removeLayer(dlc2Layer);
+		map.addLayer(dlc3Layer);
+		currentIsland = "dlc3";
+		updateBounds(maxBoundsDlc3, lastBoundsDlc3, pos);
+	} else {
+		lastBoundsDlc3 = map.getBounds();
+		map.removeLayer(dlc3Layer);
 		map.addLayer(mainLayer);
 		currentIsland = "island";
 		updateBounds(maxBoundsIsland, lastBoundsIsland, pos);
