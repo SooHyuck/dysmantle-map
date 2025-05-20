@@ -1,0 +1,1678 @@
+Hibernus
+Narrows Vale
+Westport
+Central
+Crown
+Frore
+Frost Horn
+Vulcan
+Solaris
+Capernaum
+Hedgefield
+Everglade
+Fairwood
+Serpent's Crossing
+Arcturus
+Borealis
+Polaris
+Sunburn Desert
+Canaveral
+Capper
+Sinister
+Dexter
+Nona
+North Decima
+Morta
+South Decima
+Frostarium
+Arboretum
+Desolatum
+Terrarium
+Vivarium Nexus
+Isle of Mana
+Isle of Doom
+Link Tower<br>(189° ,91°)<br>Frost Horn
+Fishing Spot<br>(973° ,98°)<br>Legendary Spot
+Buried Treasure<br>(167° ,115°)<br><br>Drops: [15 x Spices, 1 x Titanium]
+Locked Door<br>(471° ,115°)<br>Expert Lockpick
+Side Quest<br>(478° ,118°)<br>Fabricator Basics
+Fabricator<br>(481° ,120°)<br>Recipe: [Old Pocket Watch]
+Drawbridge<br>(518° ,116°)
+Fishing Spot<br>(513° ,104°)<br>Good Spot
+Fishing Spot<br>(834° ,120°)<br>Good Spot
+Buried Treasure<br>(836° ,110°)<br>Required Quest: Scavenger Hunt [Side Quest]<br><br>Drops: [15 x Steel, 15 x Wood, 8 x Hide, 8 x Rubber]
+Campfire<br>(864° ,107°)<br>Lone Log Cabin
+Fishing Spot<br>(894° ,100°)<br>Legendary Spot
+Timed Chest<br>(924° ,118°)<br><br>Time Available: 15 seconds<br>Rewards: [8 x Fabric]
+Fishing Spot<br>(1000° ,106°)<br>Good Spot
+Fishing Spot<br>(125° ,135°)<br>Good Spot
+Link Tower<br>(566° ,129°)<br>Polaris
+Buried Treasure<br>(869° ,127°)<br>To: Treats of Shelter
+Wishing Well<br>(886° ,130°)
+Radio<br>(978° ,128°)
+Buried Treasure<br>(1017° ,122°)<br>To: Test of Intelligence
+Timed Chest<br>(1045° ,140°)<br><br>Time Available: 24 seconds<br>Rewards: [4 x Steel, 6 x Fabric]
+Fishing Spot<br>(1218° ,122°)<br>Legendary Spot
+Buried Treasure<br>(1247° ,138°)<br><br>Drops: [6 x Fabric]
+Fuel Cell<br>(1404° ,133°)<br>The Law of Borealis Corrective Facility
+Campfire<br>(1428° ,123°)<br>Prison Back Yard
+Timed Chest<br>(1688° ,136°)<br><br>Time Available: 19 seconds<br>Rewards: [8 x Wood, 8 x Ceramics]
+Wishing Well<br>(1708° ,139°)
+Fishing Spot<br>(1743° ,138°)<br>Weird Spot
+Campfire<br>(139° ,148°)<br>Outside Arcadia
+Tomb<br>(173° ,158°)<br>Everlasting Duty
+Rift<br>(219° ,150°)
+Campfire<br>(226° ,142°)<br>Arctic Research Base
+Timed Chest<br>(228° ,152°)<br><br>Time Available: 34 seconds<br>Rewards: [20 x Steel, 50 x Mana Bead]
+Campfire<br>(452° ,142°)<br>North Star Installation Campfire
+Campfire<br>(612° ,154°)<br>Icy Bridge Campfire
+Buried Treasure<br>(645° ,146°)<br>To: The Corridor Challenge
+Doghouse<br>(678° ,157°)
+Fishing Spot<br>(713° ,156°)<br>Good Spot
+Doghouse<br>(936° ,152°)
+Myth Tablet<br>(988° ,146°)
+Buried Treasure<br>(1064° ,144°)<br><br>Drops: [8 x Rubber, 5 x Ceramics]
+Timed Chest<br>(1307° ,147°)<br><br>Time Available: 20 seconds<br>Rewards: [8 x Iron]
+Myth Tablet<br>(1365° ,142°)
+Campfire<br>(1419° ,149°)<br>Corrective Facility
+Locked Door<br>(1426° ,143°)<br>Borealis Corrective Facility Key
+Timed Chest<br>(1427° ,155°)<br><br>Time Available: 11 seconds<br>Rewards: [6 x Rubber]
+Side Quest<br>(1427° ,144°)<br>Prison Break-In
+Radio<br>(1431° ,151°)
+Fishing Spot<br>(1548° ,146°)<br>Legendary Spot
+Fishing Spot<br>(205° ,168°)<br>Good Spot
+Doghouse<br>(225° ,170°)
+Fishing Spot<br>(326° ,176°)<br>Legendary Spot
+Buried Treasure<br>(485° ,177°)<br><br>Drops: [1 x Mana Shard]
+Buried Treasure<br>(522° ,172°)<br><br>Drops: [1 x Mana Shard, 4 x Mana Bead]
+Locked Door<br>(951° ,175°)<br>Expert Lockpick
+Locked Door<br>(950° ,168°)<br>Expert Lockpick
+Side Quest<br>(969° ,175°)<br>Scavenger Hunt
+Fixable<br>(1077° ,178°)<br>Required Materials: [8 x Lumber]
+Doghouse<br>(1131° ,180°)
+Shelter<br>(1204° ,170°)
+Campfire<br>(1236° ,164°)<br>Wilderness Cabin
+Boss<br>(1718° ,171°)<br>The Alpha Wolf
+Buried Treasure<br>(1761° ,170°)<br>To: Golden Paws Challenge
+Drawbridge<br>(264° ,187°)
+Rift<br>(260° ,194°)
+Buried Treasure<br>(463° ,191°)<br><br>Drops: [10 x Steel, 4 x Rubber, 2 x Mana Bead]
+Campfire<br>(500° ,198°)<br>Wellspring Station Campfire
+Side Quest<br>(522° ,188°)<br>A Small Key Opens Big Doors
+Timed Chest<br>(704° ,183°)<br><br>Time Available: 20 seconds<br>Rewards: [10 x Steel, 10 x Carrot, 5 x Rice]
+Buried Treasure<br>(824° ,191°)<br><br>Drops: [10 x Hide]
+Fishing Spot<br>(882° ,190°)<br>Good Spot
+Radio<br>(932° ,182°)
+Campfire<br>(972° ,182°)<br>Chalice Outskirts
+Fixable<br>(1061° ,192°)<br>Required Materials: [5 x Lumber]
+Timed Chest<br>(1068° ,190°)<br><br>Time Available: 21 seconds<br>Rewards: [8 x Hide, 15 x Steel]
+Campfire<br>(1133° ,187°)<br>Hibernus Homestead
+Radio<br>(1128° ,181°)
+Fishing Spot<br>(1145° ,187°)<br>Common Spot
+Shelter Loudspeaker<br>(1213° ,189°)<br>Shelter Borealis Loudspeaker
+Drawbridge<br>(1297° ,184°)
+Buried Treasure<br>(1443° ,193°)<br><br>Drops: [15 x Ceramics]
+Timed Chest<br>(1505° ,194°)<br><br>Time Available: 13 seconds<br>Rewards: [7 x Iron, 4 x Fabric]
+Tomb<br>(1643° ,181°)<br>Five Will Open
+Doghouse<br>(1671° ,186°)
+Fishing Spot<br>(125° ,208°)<br>Common Spot
+Timed Chest<br>(171° ,202°)<br><br>Time Available: 18 seconds<br>Rewards: [8 x Steel, 8 x Scrap Electronics, 8 x Electronics]
+Buried Treasure<br>(231° ,209°)<br><br>Drops: [15 x Rubber]
+Fishing Spot<br>(373° ,207°)<br>Good Spot
+Fishing Spot<br>(382° ,207°)<br>Good Spot
+Fishing Spot<br>(450° ,214°)<br>Good Spot
+Wishing Well<br>(644° ,218°)
+Tomb<br>(729° ,218°)
+Buried Treasure<br>(751° ,206°)<br><br>Drops: [6 x Rubber, 2 x Plastics]
+Terminal<br>(835° ,211°)<br>Naval Base Inner Terminal
+Link Tower<br>(847° ,213°)<br>Frore
+Terminal<br>(860° ,203°)<br>Naval Base Terminal
+Campfire<br>(863° ,202°)<br>Naval Base Entrance
+Fishing Spot<br>(977° ,204°)<br>Common Spot
+Fishing Spot<br>(995° ,213°)<br>Good Spot
+Locked Door<br>(1278° ,213°)<br>Basic Lockpick
+Locked Door<br>(1278° ,210°)<br>Basic Lockpick
+Doghouse<br>(1274° ,210°)
+Radio<br>(1283° ,213°)
+Campfire<br>(1377° ,201°)<br>Northeast Power Station
+Link Tower<br>(1385° ,201°)<br>Borealis
+Drawbridge<br>(1635° ,218°)
+Link Tower<br>(1666° ,220°)<br>Arcturus
+Campfire<br>(1664° ,212°)<br>Beaver Point
+Locked Door<br>(1674° ,208°)<br>Basic Lockpick
+Radio<br>(1678° ,210°)
+Buried Treasure<br>(172° ,223°)<br><br>Drops: [1 x Mana Shard]
+Radio<br>(232° ,237°)
+Fishing Spot<br>(238° ,220°)<br>Good Spot
+Radio<br>(279° ,235°)
+Buried Treasure<br>(314° ,232°)<br><br>Drops: [25 x Plastics, 12 x Electronics]
+Rift<br>(368° ,236°)
+Fishing Spot<br>(413° ,232°)<br>Legendary Spot
+Fishing Spot<br>(437° ,240°)<br>Legendary Spot
+Radio<br>(502° ,222°)
+Locked Door<br>(522° ,227°)<br>Expert Lockpick
+Doghouse<br>(547° ,222°)
+Fishing Spot<br>(784° ,227°)<br>Good Spot
+Timed Chest<br>(813° ,228°)<br><br>Time Available: 18 seconds<br>Rewards: [12 x Electronics]
+Terminal<br>(842° ,236°)<br>The Ark Gate Terminal
+Radio<br>(850° ,228°)
+Buried Treasure<br>(952° ,221°)<br><br>Drops: [20 x Wood]
+Fishing Spot<br>(986° ,239°)<br>Good Spot
+Side Quest<br>(1044° ,237°)<br>Sawmill Building Basics
+Side Quest<br>(1061° ,223°)<br>A Bridge Too Far
+Fixable<br>(1065° ,222°)<br>Required Materials: [6 x Lumber]
+Link Tower<br>(1097° ,221°)<br>Hibernus
+Timed Chest<br>(1217° ,223°)<br><br>Time Available: 29 seconds<br>Rewards: [4 x Hide, 6 x Fabric]
+Fishing Spot<br>(1273° ,232°)<br>Good Spot
+Campfire<br>(1305° ,231°)<br>Little Otter
+Buried Treasure<br>(1722° ,231°)<br><br>Drops: [8 x Ceramics]
+Campfire<br>(1764° ,237°)<br>Borealis Traveller Lodge
+Doghouse<br>(1764° ,225°)
+Campfire<br>(228° ,244°)<br>Hydroelectric Dam
+Terminal<br>(257° ,244°)
+Locked Door<br>(257° ,240°)<br>Hydroelectric Dam Control Room Key
+Fuel Cell<br>(282° ,258°)<br>The Sword in the Lake
+Campfire<br>(375° ,247°)<br>Lower Pumping Station
+Buried Treasure<br>(423° ,242°)<br>To: Sardine Sprint
+Shelter<br>(507° ,251°)
+Buried Treasure<br>(662° ,245°)<br><br>Drops: [3 x Rubber, 2 x Steel]
+Campfire<br>(694° ,260°)<br>Polaris Wilderness Campfire
+Drawbridge<br>(786° ,258°)
+Terminal<br>(813° ,241°)<br>Naval Base Southern Terminal
+Campfire<br>(867° ,251°)<br>The Ark Entrance
+Side Quest<br>(863° ,251°)<br>The Ark
+Entryway<br>(863° ,255°)<br>Ark
+Main Quest<br>(931° ,252°)<br>The Fangman Cometh
+Campfire<br>(944° ,242°)<br>Badnews Bay
+Fishing Spot<br>(956° ,241°)<br>Good Spot
+Radio<br>(949° ,250°)
+Campfire<br>(1047° ,243°)<br>Krebbs' Wood & Timber
+Buried Treasure<br>(1085° ,253°)<br><br>Drops: [5 x Hide, 8 x Plastics]
+Tomb<br>(1128° ,255°)<br>Tomb of Timing
+Fishing Spot<br>(1152° ,249°)<br>Good Spot
+Fishing Spot<br>(1210° ,254°)<br>Good Spot
+Buried Treasure<br>(1232° ,258°)<br>To: Samoyed Test Park
+Main Quest<br>(1298° ,255°)<br>Wolves hunt in packs
+Buried Treasure<br>(1314° ,251°)<br><br>Drops: [4 x Hide]
+Fishing Spot<br>(1321° ,244°)<br>Good Spot
+Wishing Well<br>(1405° ,251°)
+Campfire<br>(1518° ,240°)<br>Northern Checkpoint
+Radio<br>(1518° ,247°)
+Fishing Spot<br>(1773° ,243°)<br>Good Spot
+Campfire<br>(197° ,277°)<br>Near the Survivor Island
+Rift<br>(232° ,278°)
+Drawbridge<br>(246° ,267°)
+Rift<br>(347° ,264°)
+Rift<br>(367° ,274°)
+Rift<br>(395° ,273°)
+Buried Treasure<br>(405° ,266°)<br><br>Drops: [30 x Plastics, 8 x Superior Salmon]
+Shelter Loudspeaker<br>(503° ,275°)<br>Shelter Polaris Loudspeaker
+Fishing Spot<br>(637° ,274°)<br>Toxic Spot
+Fishing Spot<br>(822° ,275°)<br>Good Spot
+Fixable<br>(914° ,274°)<br>Required Materials: [6 x Lumber]
+Doghouse<br>(956° ,268°)
+Fixable<br>(1002° ,275°)<br>Required Materials: [6 x Lumber]
+Radio<br>(1155° ,261°)
+Timed Chest<br>(1498° ,262°)<br><br>Time Available: 17 seconds<br>Rewards: [4 x Rubber, 5 x Scrap Electronics]
+Fishing Spot<br>(1511° ,271°)<br>Common Spot
+Main Quest<br>(1610° ,271°)<br>Only a Northern Throng
+Fixable<br>(191° ,294°)<br>Required Materials: [10 x Lumber]
+Buried Treasure<br>(394° ,296°)<br><br>Drops: [4 x Steel, 2 x Lumber]
+Timed Chest<br>(411° ,281°)<br><br>Time Available: 12 seconds<br>Rewards: [6 x Electronics, 8 x Rubber, 26 x Plastics]
+Campfire<br>(549° ,297°)<br>Polaris Checkpoint Campfire
+Terminal<br>(550° ,288°)<br>Polaris Checkpoint Terminal
+Buried Treasure<br>(881° ,294°)<br><br>Drops: [8 x Steel, 20 x Wood, 5 x Rubber]
+Fishing Spot<br>(928° ,289°)<br>Legendary Spot
+Timed Chest<br>(984° ,282°)<br><br>Time Available: 23 seconds<br>Rewards: [3 x Electronics, 5 x Scrap Electronics]
+Buried Treasure<br>(1009° ,290°)<br>Required Quest: Endless Trash [Side Quest]<br><br>Key Drops: [Continental Diner Key]
+Timed Chest<br>(1004° ,282°)<br><br>Time Available: 24 seconds<br>Rewards: [2 x Mana Shard]
+Buried Treasure<br>(1277° ,290°)<br><br>Drops: [6 x Rubber]
+Terminal<br>(1325° ,287°)<br>Borealis Gate Terminal
+Locked Door<br>(1324° ,282°)<br>Basic Lockpick
+Tomb<br>(1428° ,294°)<br>Avoid Return
+Buried Treasure<br>(1568° ,287°)<br><br>Drops: [7 x Iron]
+Timed Chest<br>(1640° ,287°)<br><br>Time Available: 30 seconds<br>Rewards: [12 x Fabric]
+Shelter<br>(1736° ,286°)
+Fishing Spot<br>(1752° ,295°)<br>Good Spot
+Shelter Loudspeaker<br>(1757° ,283°)<br>Shelter Arcturus Loudspeaker
+Drawbridge<br>(691° ,318°)
+Fishing Spot<br>(702° ,317°)<br>Good Spot
+Campfire<br>(829° ,309°)<br>Southern Frore Roadhouse
+Tomb<br>(903° ,313°)
+Campfire<br>(926° ,312°)<br>Outside Noxious Containment Unit A
+Campfire<br>(1028° ,319°)<br>Prototype Reactor Outskirts
+Buried Treasure<br>(1065° ,315°)<br><br>Drops: [5 x Mana Bead, 5 x Electronics]
+Drawbridge<br>(1238° ,302°)
+Wishing Well<br>(1282° ,312°)
+Radio<br>(1373° ,315°)
+Doghouse<br>(1372° ,310°)
+Campfire<br>(1381° ,307°)<br>Ruins of Ethelridge
+Doghouse<br>(1554° ,316°)
+Locked Door<br>(1559° ,317°)<br>Basic Lockpick
+Fishing Spot<br>(190° ,321°)<br>Common Spot
+Fishing Spot<br>(197° ,321°)<br>Good Spot
+Tomb<br>(268° ,337°)<br>Weather the Storm
+Myth Tablet<br>(313° ,323°)
+Fishing Spot<br>(344° ,332°)<br>Good Spot
+Terminal<br>(476° ,332°)<br>Westport North Terminal
+Buried Treasure<br>(538° ,327°)<br><br>Drops: [10 x Rubber, 5 x Electronics, 20 x Ceramics]
+Shelter Loudspeaker<br>(789° ,334°)<br>Shelter Frore Loudspeaker
+Terminal<br>(1031° ,333°)<br>Prototype Reactor Terminal
+Drawbridge<br>(1043° ,324°)
+Fishing Spot<br>(1120° ,331°)<br>Common Spot
+Timed Chest<br>(1164° ,334°)<br><br>Time Available: 12 seconds<br>Rewards: [15 x Ceramics]
+Tomb<br>(1197° ,333°)<br>Weight of the Four
+Fishing Spot<br>(1337° ,338°)<br>Good Spot
+Timed Chest<br>(1418° ,322°)<br><br>Time Available: 11 seconds<br>Rewards: [3 x Hide, 4 x Iron]
+Fishing Spot<br>(1454° ,326°)<br>Common Spot
+Campfire<br>(1533° ,325°)<br>Curtisfield North
+Locked Door<br>(1559° ,324°)<br>Basic Lockpick
+Fishing Spot<br>(1664° ,324°)<br>Good Spot
+Fishing Spot<br>(258° ,358°)<br>Weird Spot
+Drawbridge<br>(334° ,342°)
+Arena Obelisk<br>(349° ,354°)<br>Wave 1 Rewards: [12 x Steel]<br>Wave 2 Rewards: [16 x Rubber]<br>Wave 3 Rewards: [3 x Lumber]<br>Wave 4 Rewards: [3 x Titanium]<br>Wave 5 Rewards: [2 x Mana Shard]
+Campfire<br>(431° ,356°)<br>Log Mansion
+Side Quest<br>(437° ,354°)<br>Maniac Mansion
+Rift<br>(450° ,352°)
+Campfire<br>(721° ,347°)<br>Drive-in Theater
+Buried Treasure<br>(770° ,345°)<br><br>Drops: [10 x Rubber]
+Shelter<br>(794° ,354°)
+Buried Treasure<br>(924° ,347°)<br><br>Drops: [12 x Electronics]
+Arena Obelisk<br>(1091° ,355°)<br>Wave 1 Rewards: [14 x Wood]<br>Wave 2 Rewards: [14 x Iron]<br>Wave 3 Rewards: [10 x Rubber]<br>Wave 4 Rewards: [8 x Electronics]<br>Wave 5 Rewards: [3 x Steel]
+Side Quest<br>(1121° ,351°)<br>Endless Trash
+Locked Door<br>(1125° ,354°)<br>Continental Diner Key
+Fishing Spot<br>(1271° ,350°)<br>Good Spot
+Locked Door<br>(1516° ,356°)<br>Expert Lockpick
+Radio<br>(1524° ,351°)
+Locked Door<br>(1542° ,343°)<br>Basic Lockpick
+Fishing Spot<br>(314° ,364°)<br>Legendary Spot
+Buried Treasure<br>(390° ,375°)<br><br>Drops: [40 x Plastics, 1 x Titanium]
+Doghouse<br>(419° ,361°)
+Doghouse<br>(581° ,363°)
+Radio<br>(583° ,377°)
+Campfire<br>(619° ,374°)<br>Football Stadium Outskirts
+Doghouse<br>(709° ,365°)
+Campfire<br>(759° ,379°)<br>Mountainside Suburb
+Radio<br>(876° ,364°)
+Entryway<br>(873° ,372°)<br>Entrance Undercrown West
+Entryway<br>(965° ,367°)<br>Crown Station Elevator
+Buried Treasure<br>(1058° ,376°)<br><br>Drops: [1 x Mana Shard, 1 x Mana Chunk]
+Entryway<br>(1097° ,372°)<br>Entrance Undercrown East
+Terminal<br>(1172° ,369°)<br>Wall Checkpoint Kappa Terminal
+Side Quest<br>(1175° ,369°)<br>Broken Northern Terminal
+Radio<br>(1228° ,373°)
+Locked Door<br>(1230° ,366°)<br>Basic Lockpick
+Locked Door<br>(1237° ,363°)<br>Basic Lockpick
+Doghouse<br>(1247° ,376°)
+Side Quest<br>(1299° ,377°)<br>Fish You Were Here
+Fishing Spot<br>(1291° ,375°)<br>Common Spot
+Link Relay<br>(1303° ,365°)
+Campfire<br>(1301° ,372°)<br>Twin Lakes
+Buried Treasure<br>(1337° ,376°)<br><br>Drops: [3 x Scrap Electronics]
+Arena Obelisk<br>(1367° ,375°)<br>Wave 1 Rewards: [15 x Plastics]<br>Wave 2 Rewards: [10 x Ceramics]<br>Wave 3 Rewards: [8 x Fabric]<br>Wave 4 Rewards: [8 x Iron]<br>Wave 5 Rewards: [5 x Scrap Electronics]
+Doghouse<br>(1451° ,368°)
+Radio<br>(1486° ,369°)
+Boss<br>(1496° ,375°)<br>Vicious Brawler
+Boss<br>(1495° ,378°)<br>Vicious Brawler
+Timed Chest<br>(1515° ,363°)<br><br>Time Available: 17 seconds<br>Rewards: [8 x Steel]
+Locked Door<br>(1543° ,366°)<br>Basic Lockpick
+Buried Treasure<br>(356° ,393°)<br><br>Drops: [18 x Rubber, 6 x Ceramics]
+Buried Treasure<br>(522° ,380°)<br>To: Companion Challenge
+Side Quest<br>(577° ,395°)<br>Port of Call
+Main Quest<br>(626° ,400°)<br>Foul Play
+Timed Chest<br>(674° ,381°)<br><br>Time Available: 8 seconds<br>Rewards: [12 x Rubber]
+Buried Treasure<br>(666° ,396°)<br><br>Drops: [3 x Bone, 12 x Iron, 6 x Electronics]
+Buried Treasure<br>(737° ,391°)<br><br>Drops: [15 x Ceramics, 8 x Scrap Electronics]
+Doghouse<br>(796° ,382°)
+Doghouse<br>(804° ,384°)
+Campfire<br>(821° ,393°)<br>Eastern Central City Suburbs
+Buried Treasure<br>(932° ,391°)<br>To: Rampage Ring
+Campfire<br>(987° ,389°)<br>Crown Station Entrance
+Buried Treasure<br>(1013° ,399°)<br><br>Drops: [2 x Titanium]
+Campfire<br>(1136° ,383°)<br>Hibernus Rest Stop
+Radio<br>(1221° ,389°)
+Campfire<br>(1245° ,395°)<br>Wayward Storage Yard
+Locked Door<br>(1448° ,392°)<br>Basic Lockpick
+Campfire<br>(1463° ,391°)<br>Armando's Used Cars
+Buried Treasure<br>(1553° ,399°)<br><br>Drops: [5 x Scrap Electronics]
+Drawbridge<br>(1542° ,398°)
+Drawbridge<br>(1612° ,386°)
+Fishing Spot<br>(165° ,411°)<br>Legendary Spot
+Timed Chest<br>(183° ,418°)<br><br>Time Available: 21 seconds<br>Rewards: [2 x Titanium, 2 x Lumber, 6 x Electronics]
+Rift<br>(410° ,414°)
+Campfire<br>(492° ,408°)<br>Westport Clifftop Tomb
+Tomb<br>(503° ,408°)<br>Alternating Code
+Campfire<br>(678° ,415°)<br>Mall Loading Bay
+Radio<br>(691° ,406°)
+Radio<br>(805° ,407°)
+Terminal<br>(826° ,415°)<br>City Hall Gate
+Link Tower<br>(894° ,415°)<br>Crown
+Rift<br>(908° ,409°)
+Buried Treasure<br>(933° ,404°)<br><br>Drops: [5 x Titanium]
+Rift<br>(942° ,400°)
+Locked Door<br>(1247° ,401°)<br>Wayward Storage Key
+Side Quest<br>(1252° ,400°)<br>Phony Shipment
+Locked Door<br>(1374° ,416°)<br>Basic Lockpick
+Locked Door<br>(1378° ,412°)<br>Basic Lockpick
+Campfire<br>(1385° ,410°)<br>Large House
+Radio<br>(1380° ,408°)
+Radio<br>(1409° ,408°)
+Link Tower<br>(1422° ,408°)<br>Fairwood
+Fishing Spot<br>(1560° ,419°)<br>Good Spot
+Fixable<br>(166° ,440°)<br>Required Materials: [4 x Lumber]
+Buried Treasure<br>(171° ,429°)<br><br>Drops: [12 x Electronics, 20 x Steel]
+Buried Treasure<br>(166° ,420°)<br>To: Showtime Arena
+Fishing Spot<br>(290° ,429°)<br>Good Spot
+Campfire<br>(348° ,432°)<br>Westport Harbor
+Radio<br>(378° ,428°)
+Radio<br>(439° ,438°)
+Doghouse<br>(443° ,435°)
+Buried Treasure<br>(463° ,422°)<br><br>Drops: [4 x Lumber]
+Radio<br>(573° ,424°)
+Timed Chest<br>(564° ,431°)<br><br>Time Available: 13 seconds<br>Rewards: [10 x Steel, 10 x Rubber]
+Link Tower<br>(665° ,433°)<br>Central
+Campfire<br>(766° ,439°)<br>Pioneer's Park
+Locked Door<br>(805° ,437°)<br>Central City Hall Key
+Locked Door<br>(812° ,437°)<br>Central City Hall Key
+Radio<br>(805° ,432°)
+Locked Door<br>(821° ,434°)<br>Central City Hall Key
+Locked Door<br>(825° ,433°)<br>Central City Hall Key
+Doghouse<br>(899° ,439°)
+Radio<br>(908° ,427°)
+Audio Log<br>(902° ,430°)<br>Crown K23
+Rift<br>(953° ,429°)
+Campfire<br>(975° ,433°)<br>Crown Station Center
+Campfire<br>(1029° ,428°)<br>Landing Pad Besides Spring Peak
+Fishing Spot<br>(1133° ,433°)<br>Legendary Spot
+Radio<br>(1143° ,424°)
+Buried Treasure<br>(1188° ,420°)<br>To: Forgotten Thieves
+Buried Treasure<br>(1325° ,432°)<br><br>Drops: [3 x Hide]
+Buried Treasure<br>(1486° ,420°)<br><br>Drops: [4 x Iron]
+Timed Chest<br>(1518° ,427°)<br><br>Time Available: 15 seconds<br>Rewards: [5 x Iron, 3 x Ceramics]
+Drawbridge<br>(1596° ,428°)
+Campfire<br>(159° ,453°)<br>Caldera
+Fishing Spot<br>(206° ,442°)<br>Good Spot
+Link Tower<br>(352° ,444°)<br>Westport
+Radio<br>(366° ,445°)
+Campfire<br>(451° ,446°)<br>Lawrence Farm
+Wishing Well<br>(534° ,456°)
+Radio<br>(569° ,447°)
+Fishing Spot<br>(627° ,459°)<br>Good Spot
+Side Quest<br>(662° ,455°)<br>A Way Forward
+Locked Door<br>(802° ,447°)<br>Central City Hall Key
+Buried Treasure<br>(801° ,452°)<br><br>Drops: [4 x Steel, 4 x Rubber, 4 x Electronics]
+Locked Door<br>(827° ,444°)<br>Central City Hall Key
+Locked Door<br>(831° ,443°)<br>Central City Hall Key
+Boss<br>(852° ,444°)<br>Skinless Skulker
+Boss<br>(845° ,443°)<br>Skinless Skulker
+Tomb<br>(912° ,455°)<br>Enlightened by the Crossed Light
+Timed Chest<br>(904° ,454°)<br><br>Time Available: 12 seconds<br>Rewards: [1 x Blue Eye Orb]
+Locked Door<br>(990° ,459°)<br>Launchpad Key
+Buried Treasure<br>(1027° ,453°)<br><br>Drops: [5 x Mana Shard, 2 x Titanium]
+Rift<br>(1160° ,454°)
+Buried Treasure<br>(1208° ,451°)<br><br>Drops: [5 x Fabric]
+Timed Chest<br>(1367° ,453°)<br><br>Time Available: 12 seconds<br>Rewards: [6 x Scrap Metal]
+Campfire<br>(1414° ,451°)<br>Lone Field
+Main Quest<br>(1431° ,451°)<br>Haymaker
+Wishing Well<br>(1425° ,456°)
+Fishing Spot<br>(1547° ,456°)<br>Common Spot
+Campfire<br>(1600° ,455°)<br>Tabula Rasa
+Side Quest<br>(1605° ,457°)<br>Construction Work
+Fishing Spot<br>(93° ,472°)<br>Good Spot
+Buried Treasure<br>(89° ,461°)<br><br>Drops: [20 x Ceramics, 24 x Wood]
+Campfire<br>(105° ,473°)<br>Land's End
+Doghouse<br>(105° ,476°)
+Tomb<br>(154° ,470°)<br>The Changing Labyrinth
+Radio<br>(206° ,476°)
+Buried Treasure<br>(378° ,464°)<br><br>Drops: [8 x Electronics, 20 x Iron]
+Doghouse<br>(386° ,478°)
+Fishing Spot<br>(455° ,476°)<br>Weird Spot
+Campfire<br>(583° ,465°)<br>Heavy Industry Zone
+Locked Door<br>(607° ,468°)<br>Master Lockpick
+Radio<br>(609° ,467°)
+Radio<br>(725° ,477°)
+Radio<br>(782° ,473°)
+Buried Treasure<br>(810° ,460°)<br>To: Pitbull Shelter
+Myth Tablet<br>(878° ,463°)
+Audio Log<br>(881° ,466°)<br>Crown Office
+Locked Door<br>(965° ,472°)<br>Launchpad Key
+Audio Log<br>(963° ,477°)<br>Crown Honesty
+Campfire<br>(984° ,473°)<br>Crown Station Overpass
+Doghouse<br>(1049° ,462°)
+Campfire<br>(1123° ,475°)<br>Outside the Closed Down Chemical Plant
+Rift<br>(1131° ,465°)
+Timed Chest<br>(1151° ,468°)<br><br>Time Available: 5 seconds<br>Rewards: [1 x Blue Eye Orb]
+Campfire<br>(1167° ,471°)<br>Near the Chemical Plant Reinforced Structure
+Campfire<br>(1314° ,472°)<br>Lakeside Shack
+Buried Treasure<br>(1317° ,464°)<br><br>Drops: [6 x Bone]
+Buried Treasure<br>(1409° ,465°)<br>To: Snakes on a Park
+Farmable<br>(1480° ,462°)
+Link Relay<br>(1491° ,461°)
+Campfire<br>(1485° ,461°)<br>Packard Family Farm
+Side Quest<br>(1484° ,463°)<br>Farming Basics
+Farmable<br>(1482° ,460°)
+Farmable<br>(1482° ,464°)
+Farmable<br>(1480° ,464°)
+Rift<br>(1529° ,478°)
+Fishing Spot<br>(145° ,497°)<br>Toxic Spot
+Campfire<br>(205° ,483°)<br>Beach Party
+Fishing Spot<br>(213° ,482°)<br>Good Spot
+Timed Chest<br>(324° ,490°)<br><br>Time Available: 20 seconds<br>Rewards: [8 x Electronics, 12 x Steel, 20 x Ceramics]
+Fishing Spot<br>(352° ,499°)<br>Good Spot
+Doghouse<br>(537° ,487°)
+Rift<br>(552° ,484°)
+Campfire<br>(703° ,492°)<br>Destroyed Building
+Timed Chest<br>(726° ,481°)<br><br>Time Available: 7 seconds<br>Rewards: [12 x Electronics, 4 x Steel]
+Radio<br>(793° ,488°)
+Radio<br>(812° ,493°)
+Campfire<br>(890° ,492°)<br>The Fortress Campfire
+Buried Treasure<br>(941° ,496°)<br><br>Drops: [5 x Mana Bead]
+Audio Log<br>(1011° ,480°)<br>Crown Mana
+Entryway<br>(1018° ,482°)<br>Entrance Launchpad Tunnel West
+Entryway<br>(1036° ,499°)<br>Entrance Launchpad Tunnel South
+Terminal<br>(1162° ,499°)<br>Chemical Plant Reinforced Structure Terminal
+Boss<br>(1175° ,491°)<br>Wicked Leaper
+Myth Tablet<br>(1256° ,483°)
+Fishing Spot<br>(1326° ,485°)<br>Common Spot
+Buried Treasure<br>(1377° ,499°)<br>To: First Pet
+Buried Treasure<br>(1462° ,498°)<br><br>Drops: [1 x Scrap Fabric, 1 x Scrap Fabric, 1 x Scrap Fabric]
+Timed Chest<br>(1510° ,489°)<br><br>Time Available: 15 seconds<br>Rewards: [12 x Electronics, 25 x Steel, 3 x Rice]
+Rift<br>(1509° ,490°)
+Timed Chest<br>(1557° ,495°)<br><br>Time Available: 20 seconds<br>Rewards: [2 x Iron, 8 x Ceramics]
+Radio<br>(1559° ,487°)
+Doghouse<br>(1565° ,496°)
+Campfire<br>(133° ,519°)<br>By the Toxic Pools
+Fishing Spot<br>(210° ,510°)<br>Legendary Spot
+Fishing Spot<br>(259° ,502°)<br>Good Spot
+Fishing Spot<br>(268° ,518°)<br>Legendary Spot
+Rift<br>(272° ,506°)
+Timed Chest<br>(274° ,517°)<br><br>Time Available: 32 seconds<br>Rewards: [1 x Mana Shard, 8 x Rice]
+Fishing Spot<br>(309° ,516°)<br>Legendary Spot
+Tomb<br>(576° ,516°)<br>The Shining Passageway
+Fishing Spot<br>(613° ,513°)<br>Common Spot
+Fishing Spot<br>(682° ,509°)<br>Legendary Spot
+Doghouse<br>(751° ,516°)
+Locked Door<br>(816° ,512°)<br>Master Lockpick
+Audio Log<br>(878° ,502°)<br>Crown Mansion
+Side Quest<br>(1025° ,508°)<br>A Leak at the Peak
+Boss<br>(1094° ,510°)<br>The Alpha Wolf
+Boss<br>(1086° ,511°)<br>The Alpha Wolf
+Radio<br>(1261° ,520°)
+Tomb<br>(1330° ,507°)
+Locked Door<br>(1330° ,512°)<br>Basic Lockpick
+Locked Door<br>(1330° ,512°)<br>Basic Lockpick
+Doghouse<br>(1364° ,512°)
+Side Quest<br>(1365° ,518°)<br>Basic Necessities
+Radio<br>(1406° ,510°)
+Locked Door<br>(1407° ,513°)<br>Basic Lockpick
+Locked Door<br>(1410° ,509°)<br>Basic Lockpick
+Side Quest<br>(1419° ,514°)<br>Getting Stronger
+Campfire<br>(1421° ,514°)<br>Suburb Truck Yard
+Locked Door<br>(1617° ,514°)<br>Master Lockpick
+Locked Door<br>(1611° ,512°)<br>Expert Lockpick
+Terminal<br>(1612° ,507°)<br>Gembine
+Locked Door<br>(1626° ,513°)<br>Expert Lockpick
+Fishing Spot<br>(1658° ,508°)<br>Good Spot
+Terminal<br>(158° ,529°)<br>Volcano Passage Terminal
+Locked Door<br>(157° ,532°)<br>Volcano Passage Entryway Key
+Rift<br>(234° ,521°)
+Fishing Spot<br>(326° ,526°)<br>Common Spot
+Fishing Spot<br>(373° ,526°)<br>Legendary Spot
+Campfire<br>(809° ,531°)<br>Southern Central Office Building
+Radio<br>(808° ,520°)
+Fishing Spot<br>(980° ,530°)<br>Legendary Spot
+Wishing Well<br>(962° ,522°)
+Buried Treasure<br>(991° ,530°)<br><br>Drops: [3 x Mana Shard]
+Terminal<br>(1261° ,522°)<br>Menzies' Pass Eastern Gate Terminal
+Radio<br>(1341° ,536°)
+Campfire<br>(1365° ,521°)<br>Home Suburb
+Main Quest<br>(1362° ,537°)<br>Fast Basketball
+Link Tower<br>(1391° ,527°)<br>Capernaum
+Locked Door<br>(1424° ,535°)<br>Basic Lockpick
+Buried Treasure<br>(1430° ,533°)<br><br>Drops: [1 x Iron, 1 x Iron, 1 x Iron, 1 x Plastics, 1 x Plastics, 1 x Ceramics, 1 x Ceramics, 1 x Rubber, 1 x Rubber]
+Boss<br>(1444° ,527°)<br>The False Gatekeeper
+Tomb<br>(1506° ,539°)
+Campfire<br>(1573° ,525°)<br>Evac Site Entrance
+Terminal<br>(1600° ,523°)<br>Outer Gate Terminal
+Link Tower<br>(1608° ,537°)<br>Canaveral
+Campfire<br>(1613° ,526°)<br>Aerospace Center Inner Courtyard
+Terminal<br>(1620° ,524°)<br>Inner Gate Terminal
+Timed Chest<br>(1625° ,537°)<br><br>Time Available: 10 seconds<br>Rewards: [12 x Iron, 6 x Fabric]
+Locked Door<br>(1625° ,522°)<br>Expert Lockpick
+Fishing Spot<br>(100° ,542°)<br>Legendary Spot
+Shelter<br>(118° ,552°)
+Buried Treasure<br>(115° ,542°)<br><br>Drops: [1 x Mana Shard, 10 x Rubber]
+Shelter Loudspeaker<br>(137° ,544°)<br>Shelter Vulcan Loudspeaker
+Myth Tablet<br>(375° ,546°)
+Fishing Spot<br>(624° ,550°)<br>Common Spot
+Buried Treasure<br>(630° ,545°)<br><br>Drops: [5 x Steel, 2 x Meat, 2 x Rubber]
+Buried Treasure<br>(655° ,553°)<br><br>Drops: [20 x Ceramics, 12 x Wood]
+Drawbridge<br>(647° ,557°)
+Fishing Spot<br>(732° ,558°)<br>Good Spot
+Fishing Spot<br>(829° ,544°)<br>Common Spot
+Buried Treasure<br>(1093° ,551°)<br>Required Quest: You Rip what you Sow [Side Quest]<br><br>Drops: [2 x Bone, 4 x Iron, 2 x Electronics]
+Shelter<br>(1334° ,559°)
+Campfire<br>(1330° ,550°)<br>Home Shelter
+Main Quest<br>(1335° ,540°)<br>Crowbar Through Obstacles
+Timed Chest<br>(1353° ,555°)<br><br>Time Available: 13 seconds<br>Rewards: [1 x Mana Shard, 8 x Electronics, 8 x Scrap Electronics, 8 x Steel, 16 x Ceramics]
+Rift<br>(1347° ,555°)
+Radio<br>(1382° ,553°)
+Buried Treasure<br>(1413° ,548°)<br><br>Drops: [1 x Iron, 1 x Iron, 1 x Iron, 1 x Plastics, 1 x Plastics, 1 x Ceramics, 1 x Ceramics, 1 x Rubber, 1 x Rubber]
+Locked Door<br>(1425° ,542°)<br>Basic Lockpick
+Locked Door<br>(1421° ,547°)<br>Basic Lockpick
+Buried Treasure<br>(1426° ,552°)<br>To: Trapped Snack Chasers
+Buried Treasure<br>(1481° ,554°)<br>To: The Teleportation Test
+Doghouse<br>(1567° ,544°)
+Radio<br>(1599° ,553°)
+Locked Door<br>(1614° ,549°)<br>Expert Lockpick
+Locked Door<br>(1616° ,554°)<br>Expert Lockpick
+Campfire<br>(183° ,573°)<br>Near Vulcan Ancient Ruins
+Fishing Spot<br>(210° ,574°)<br>Good Spot
+Campfire<br>(500° ,571°)<br>Desert Truck Stop Campfire
+Fixable<br>(623° ,565°)<br>Required Materials: [10 x Lumber]
+Wishing Well<br>(671° ,570°)
+Campfire<br>(695° ,576°)<br>Dried Out Farm
+Buried Treasure<br>(840° ,576°)<br><br>Drops: [3 x Iron, 5 x Rubber]
+Tomb<br>(924° ,567°)<br>Returning Past
+Buried Treasure<br>(1053° ,572°)<br><br>Drops: [1 x Plant Matter, 1 x Plant Matter, 5 x Iron, 1 x Plastics]
+Buried Treasure<br>(1100° ,561°)<br>Required Quest: You Rip what you Sow [Side Quest]<br><br>Drops: [2 x Bone, 2 x Steel]
+Buried Treasure<br>(1091° ,563°)<br>Required Quest: You Rip what you Sow [Side Quest]<br><br>Drops: [2 x Bone, 2 x Rubber, 1 x Steel]
+Buried Treasure<br>(1104° ,567°)<br>Required Quest: You Rip what you Sow [Side Quest]<br><br>Drops: [2 x Bone, 2 x Rubber, 1 x Plastics]
+Radio<br>(1173° ,564°)
+Terminal<br>(1172° ,568°)<br>Menzies' Pass Southern Gate Terminal
+Rift<br>(1169° ,573°)
+Buried Treasure<br>(1278° ,561°)<br><br>Drops: [1 x Mana Bead, 3 x Bone]
+Timed Chest<br>(1440° ,564°)<br><br>Time Available: 19 seconds<br>Rewards: [6 x Iron, 6 x Wood]
+Buried Treasure<br>(1529° ,561°)<br><br>Drops: [4 x Iron]
+Timed Chest<br>(1594° ,570°)<br><br>Time Available: 16 seconds<br>Rewards: [2 x Iron, 10 x Scrap Wood]
+Timed Chest<br>(1633° ,562°)<br><br>Time Available: 14 seconds<br>Rewards: [15 x Electronics, 3 x Titanium]
+Drawbridge<br>(1637° ,579°)
+Buried Treasure<br>(1654° ,578°)<br>To: Preservation Hub
+Fishing Spot<br>(312° ,592°)<br>Legendary Spot
+Wishing Well<br>(396° ,598°)
+Terminal<br>(518° ,584°)<br>Gembine
+Buried Treasure<br>(612° ,594°)<br><br>Drops: [1 x Titanium, 10 x Mana Bead]
+Timed Chest<br>(656° ,591°)<br><br>Time Available: 27 seconds<br>Rewards: [20 x Lumber, 10 x Fabric]
+Side Quest<br>(878° ,598°)<br>Smelter Building Basics
+Campfire<br>(896° ,599°)<br>West Cutter Campfire
+Rift<br>(952° ,591°)
+Buried Treasure<br>(958° ,589°)<br><br>Drops: [6 x Superior Salmon]
+Buried Treasure<br>(966° ,595°)<br><br>Drops: [6 x Rubber, 2 x Plastics]
+Rift<br>(974° ,599°)
+Radio<br>(997° ,593°)
+Locked Door<br>(991° ,594°)<br>Expert Lockpick
+Boss<br>(997° ,590°)<br>The Perilous Pursuer
+Fishing Spot<br>(1038° ,587°)<br>Common Spot
+Link Tower<br>(1048° ,597°)<br>Narrows Vale
+Side Quest<br>(1052° ,599°)<br>Broken Link Tower
+Locked Door<br>(1052° ,598°)<br>Basic Lockpick
+Campfire<br>(1087° ,588°)<br>Fincher's Auto Salvage
+Drawbridge<br>(1081° ,584°)
+Buried Treasure<br>(1109° ,599°)<br><br>Drops: [3 x Iron, 5 x Rubber]
+Buried Treasure<br>(1317° ,591°)<br>To: Desert Fight Field
+Farmable<br>(1348° ,592°)
+Farmable<br>(1354° ,594°)
+Farmable<br>(1352° ,592°)
+Doghouse<br>(1342° ,599°)
+Farmable<br>(1356° ,592°)
+Farmable<br>(1350° ,594°)
+Rift<br>(1376° ,592°)
+Campfire<br>(1545° ,600°)<br>Bowel Lake Camping Grounds
+Buried Treasure<br>(1573° ,583°)<br>To: Poodle Park
+Arena Obelisk<br>(1603° ,580°)<br>Wave 1 Rewards: [20 x Scrap Wood]<br>Wave 2 Rewards: [15 x Scrap Metal]<br>Wave 3 Rewards: [10 x Scrap Fabric]<br>Wave 4 Rewards: [8 x Wood]<br>Wave 5 Rewards: [8 x Iron]
+Fishing Spot<br>(1619° ,597°)<br>Common Spot
+Link Tower<br>(145° ,606°)<br>Vulcan
+Campfire<br>(283° ,610°)<br>Solaris Train Station Campfire
+Drawbridge<br>(510° ,620°)
+Rift<br>(628° ,613°)
+Fishing Spot<br>(659° ,613°)<br>Legendary Spot
+Fishing Spot<br>(683° ,612°)<br>Good Spot
+Arena Obelisk<br>(739° ,610°)<br>Wave 1 Rewards: [18 x Wood]<br>Wave 2 Rewards: [10 x Rubber]<br>Wave 3 Rewards: [5 x Steel]<br>Wave 4 Rewards: [3 x Lumber]<br>Wave 5 Rewards: [1 x Mana Shard]
+Radio<br>(916° ,612°)
+Rift<br>(986° ,614°)
+Campfire<br>(1019° ,611°)<br>Sanctuary Farm Campsite
+Wishing Well<br>(1055° ,609°)
+Buried Treasure<br>(1081° ,617°)<br><br>Drops: [2 x Iron, 2 x Plastics, 3 x Rubber]
+Fishing Spot<br>(1148° ,606°)<br>Common Spot
+Timed Chest<br>(1211° ,618°)<br><br>Time Available: 25 seconds<br>Rewards: [3 x Hide, 6 x Fabric]
+Buried Treasure<br>(1242° ,617°)<br>To: Treat Path Park
+Buried Treasure<br>(1263° ,606°)<br><br>Drops: [5 x Iron]
+Rift<br>(1373° ,618°)
+Buried Treasure<br>(1443° ,601°)<br><br>Drops: [4 x Wood]
+Radio<br>(1477° ,607°)
+Campfire<br>(1494° ,615°)<br>Southern Cemetery
+Fishing Spot<br>(1538° ,616°)<br>Common Spot
+Wishing Well<br>(1556° ,614°)
+Timed Chest<br>(1621° ,613°)<br><br>Time Available: 20 seconds<br>Rewards: [8 x Wood, 4 x Ceramics]
+Fishing Spot<br>(248° ,621°)<br>Common Spot
+Side Quest<br>(285° ,623°)<br>Cool Head, Hot Feet
+Buried Treasure<br>(316° ,636°)<br><br>Drops: [5 x Steel, 10 x Rubber]
+Fishing Spot<br>(907° ,635°)<br>Common Spot
+Timed Chest<br>(949° ,631°)<br><br>Time Available: 20 seconds<br>Rewards: [1 x Titanium, 2 x Fabric]
+Doghouse<br>(948° ,621°)
+Buried Treasure<br>(1002° ,624°)<br><br>Drops: [5 x Iron, 2 x Rubber]
+Buried Treasure<br>(1156° ,623°)<br>To: Chartreux Test
+Link Relay<br>(1215° ,635°)
+Timed Chest<br>(1273° ,628°)<br><br>Time Available: 7 seconds<br>Rewards: [4 x Fabric, 5 x Iron]
+Campfire<br>(1290° ,635°)<br>Greyhaven
+Radio<br>(1289° ,626°)
+Link Tower<br>(1397° ,637°)<br>Hedgefield
+Campfire<br>(1391° ,626°)<br>Southern Power Station
+Tomb<br>(1454° ,626°)<br>Tomb of The Hungry King
+Link Relay<br>(1459° ,632°)
+Locked Door<br>(1467° ,631°)<br>Graveyard Key
+Locked Door<br>(1467° ,630°)<br>Graveyard Key
+Buried Treasure<br>(1479° ,636°)<br>Required Quest: Graveyard Shift [Side Quest]<br><br>Key Drops: [Graveyard Key]
+Side Quest<br>(1487° ,626°)<br>Graveyard Shift
+Locked Door<br>(1590° ,626°)<br>Basic Lockpick
+Locked Door<br>(1596° ,627°)<br>Basic Lockpick
+Fishing Spot<br>(1630° ,638°)<br>Good Spot
+Campfire<br>(1655° ,629°)<br>Cape Pass
+Entryway<br>(1678° ,632°)<br>Dlc 1 Entrance
+Drawbridge<br>(1704° ,630°)
+Fishing Spot<br>(597° ,660°)<br>Weird Spot
+Side Quest<br>(639° ,650°)<br>On the Track to Nowhere
+Radio<br>(686° ,643°)
+Radio<br>(822° ,641°)
+Side Quest<br>(824° ,656°)<br>Con Voyage
+Campfire<br>(840° ,641°)<br>Pimaville Outskirts
+Buried Treasure<br>(895° ,641°)<br>To: Heeler Hunt
+Locked Door<br>(952° ,645°)<br>Basic Lockpick
+Buried Treasure<br>(944° ,650°)<br><br>Drops: [3 x Iron, 2 x Steel, 3 x Rubber, 2 x Plastics]
+Side Quest<br>(997° ,648°)<br>You Rip what you Sow
+Rift<br>(996° ,641°)
+Fishing Spot<br>(1050° ,646°)<br>Common Spot
+Campfire<br>(1090° ,643°)<br>Underfield
+Radio<br>(1098° ,649°)
+Fishing Spot<br>(1130° ,644°)<br>Good Spot
+Side Quest<br>(1194° ,652°)<br>Broken Southern Terminal
+Terminal<br>(1192° ,652°)<br>Wall Checkpoint Rho Terminal
+Myth Tablet<br>(1218° ,641°)
+Locked Door<br>(1262° ,643°)<br>Expert Lockpick
+Radio<br>(1278° ,645°)
+Doghouse<br>(1300° ,648°)
+Radio<br>(1351° ,649°)
+Buried Treasure<br>(1596° ,645°)<br><br>Drops: [5 x Fabric]
+Entryway<br>(1731° ,647°)<br>Island Cape Pass Entrance
+Campfire<br>(507° ,676°)<br>Solaris Farm Campfire
+Doghouse<br>(516° ,667°)
+Link Tower<br>(659° ,660°)<br>Sunburn Desert
+Campfire<br>(665° ,672°)<br>Diamond Mine
+Buried Treasure<br>(750° ,663°)<br><br>Drops: [16 x Steel]
+Buried Treasure<br>(758° ,663°)<br>To: Bengal Stadium
+Buried Treasure<br>(916° ,678°)<br><br>Drops: [10 x Steel, 8 x Electronics]
+Fishing Spot<br>(948° ,674°)<br>Common Spot
+Campfire<br>(1002° ,678°)<br>Brook Bridge Campfire
+Buried Treasure<br>(1058° ,664°)<br><br>Drops: [3 x Iron, 3 x Rubber]
+Timed Chest<br>(1115° ,676°)<br><br>Time Available: 15 seconds<br>Rewards: [3 x Hide, 6 x Fabric]
+Side Quest<br>(1153° ,668°)<br>Getaway Cut Short 
+Locked Door<br>(1151° ,679°)<br>Basic Lockpick
+Campfire<br>(1171° ,661°)<br>Blue Ponds Motel
+Doghouse<br>(1169° ,677°)
+Buried Treasure<br>(1234° ,676°)<br><br>Drops: [1 x Hide, 1 x Hide, 1 x Hide, 1 x Hide]
+Wishing Well<br>(1380° ,664°)
+Fishing Spot<br>(1416° ,669°)<br>Common Spot
+Buried Treasure<br>(1509° ,666°)<br><br>Drops: [6 x Iron, 4 x Fabric]
+Fishing Spot<br>(236° ,690°)<br>Common Spot
+Campfire<br>(318° ,695°)<br>Military Road Campfire
+Fishing Spot<br>(575° ,687°)<br>Good Spot
+Myth Tablet<br>(593° ,689°)
+Doghouse<br>(835° ,685°)
+Drawbridge<br>(1006° ,688°)
+Fishing Spot<br>(1073° ,696°)<br>Common Spot
+Buried Treasure<br>(1151° ,688°)<br><br>Drops: [1 x Iron, 1 x Iron, 1 x Iron, 1 x Plastics, 1 x Plastics, 1 x Ceramics, 1 x Ceramics, 1 x Rubber, 1 x Rubber]
+Shelter<br>(1286° ,685°)
+Buried Treasure<br>(1339° ,686°)<br><br>Drops: [1 x Fabric, 1 x Fabric, 1 x Fabric]
+Terminal<br>(1415° ,694°)<br>Everglade Gate Terminal
+Timed Chest<br>(1479° ,686°)<br><br>Time Available: 20 seconds<br>Rewards: [10 x Wood, 6 x Fabric]
+Radio<br>(538° ,716°)
+Buried Treasure<br>(570° ,714°)<br><br>Drops: [1 x Titanium, 8 x Steel, 12 x Fabric, 12 x Scrap Electronics]
+Buried Treasure<br>(785° ,715°)<br><br>Drops: [8 x Wood, 20 x Mana Bead, 8 x Rubber]
+Drawbridge<br>(859° ,711°)
+Fishing Spot<br>(1036° ,709°)<br>Good Spot
+Terminal<br>(1190° ,708°)
+Shelter Loudspeaker<br>(1290° ,706°)<br>Shelter Hedgefield Loudspeaker
+Fishing Spot<br>(1326° ,719°)<br>Legendary Spot
+Fishing Spot<br>(1356° ,714°)<br>Common Spot
+Campfire<br>(1366° ,716°)<br>Everglade Bay
+Campfire<br>(1606° ,718°)<br>Ft. Darrow
+Timed Chest<br>(1657° ,713°)<br><br>Time Available: 15 seconds<br>Rewards: [8 x Rubber, 4 x Scrap Electronics]
+Buried Treasure<br>(364° ,727°)<br><br>Drops: [5 x Steel, 1 x Titanium, 1 x Bone]
+Locked Door<br>(446° ,721°)<br>Master Lockpick
+Fishing Spot<br>(465° ,736°)<br>Common Spot
+Campfire<br>(561° ,735°)<br>Mansion Entrance
+Side Quest<br>(565° ,737°)<br>Dirty Money
+Shelter Loudspeaker<br>(818° ,734°)<br>Shelter Sunburn-desert Loudspeaker
+Shelter<br>(833° ,734°)
+Tomb<br>(961° ,731°)
+Wishing Well<br>(1116° ,736°)
+Doghouse<br>(1460° ,731°)
+Locked Door<br>(1467° ,728°)<br>Basic Lockpick
+Campfire<br>(1487° ,731°)<br>Gheens
+Radio<br>(1490° ,736°)
+Arena Obelisk<br>(1564° ,740°)<br>Wave 1 Rewards: [12 x Iron]<br>Wave 2 Rewards: [12 x Wood]<br>Wave 3 Rewards: [10 x Fabric]<br>Wave 4 Rewards: [8 x Rubber]<br>Wave 5 Rewards: [10 x Scrap Electronics]
+Radio<br>(1671° ,739°)
+Shelter<br>(1696° ,727°)
+Timed Chest<br>(269° ,750°)<br><br>Time Available: 23 seconds<br>Rewards: [10 x Meat, 1 x Scrap Fabric]
+Doghouse<br>(264° ,746°)
+Radio<br>(288° ,759°)
+Link Tower<br>(325° ,740°)<br>Solaris
+Buried Treasure<br>(395° ,747°)<br>To: Dachshund Test
+Fishing Spot<br>(659° ,750°)<br>Good Spot
+Fixable<br>(812° ,758°)<br>Required Materials: [4 x Lumber]
+Audio Log<br>(899° ,744°)<br>Introductions
+Buried Treasure<br>(899° ,750°)<br><br>Drops: [8 x Ceramics, 12 x Iron, 12 x Wood]
+Audio Log<br>(930° ,745°)<br>Myth Tablets
+Audio Log<br>(949° ,744°)<br>Pyramid Cyanide Gas
+Campfire<br>(1069° ,759°)<br>Vine Ravine
+Radio<br>(1063° ,756°)
+Buried Treasure<br>(1101° ,745°)<br><br>Drops: [2 x Steel, 6 x Rubber]
+Entryway<br>(1381° ,749°)<br>Dlc2 Drone To Dlc2
+Fishing Spot<br>(1460° ,751°)<br>Common Spot
+Fishing Spot<br>(1527° ,751°)<br>Good Spot
+Radio<br>(1614° ,744°)
+Main Quest<br>(1602° ,749°)<br>Mortar and Pestilence
+Boss<br>(1656° ,745°)<br>The Ruthless Pitcher
+Shelter Loudspeaker<br>(1688° ,743°)<br>Shelter Everglade Loudspeaker
+Drawbridge<br>(1710° ,754°)
+Fishing Spot<br>(1744° ,750°)<br>Legendary Spot
+Campfire<br>(191° ,777°)<br>Military Airfield Campfire
+Fishing Spot<br>(544° ,775°)<br>Good Spot
+Doghouse<br>(704° ,763°)
+Campfire<br>(726° ,769°)<br>Driftwood
+Timed Chest<br>(821° ,769°)<br><br>Time Available: 24 seconds<br>Rewards: [20 x Rubber, 5 x Steel]
+Buried Treasure<br>(1062° ,774°)<br><br>Drops: [8 x Iron, 4 x Hide, 2 x Wheat]
+Fishing Spot<br>(1068° ,768°)<br>Common Spot
+Buried Treasure<br>(1148° ,771°)<br><br>Drops: [3 x Steel, 4 x Scrap Electronics]
+Fishing Spot<br>(1220° ,776°)<br>Common Spot
+Drawbridge<br>(1581° ,760°)
+Drawbridge<br>(1592° ,770°)
+Doghouse<br>(1585° ,776°)
+Timed Chest<br>(1603° ,773°)<br><br>Time Available: 14 seconds<br>Rewards: [6 x Wood, 6 x Iron]
+Fishing Spot<br>(1617° ,768°)<br>Good Spot
+Campfire<br>(1705° ,778°)<br>Holiday Resort
+Radio<br>(1724° ,775°)
+Fuel Cell<br>(309° ,784°)<br>The Crown of the Desert
+Timed Chest<br>(603° ,793°)<br><br>Time Available: 16 seconds<br>Rewards: [1 x Blue Eye Orb]
+Fishing Spot<br>(779° ,790°)<br>Good Spot
+Campfire<br>(889° ,798°)<br>South of Fool's Canyon
+Fixable<br>(1026° ,786°)<br>Required Materials: [6 x Lumber]
+Myth Tablet<br>(1198° ,782°)
+Rift<br>(1194° ,795°)
+Rift<br>(1187° ,792°)
+Campfire<br>(1278° ,792°)<br>Volcano Mouth
+Timed Chest<br>(1462° ,796°)<br><br>Time Available: 28 seconds<br>Rewards: [4 x Wood, 8 x Iron]
+Timed Chest<br>(1514° ,783°)<br><br>Time Available: 24 seconds<br>Rewards: [6 x Fabric, 4 x Hide]
+Locked Door<br>(1513° ,796°)<br>Expert Lockpick
+Locked Door<br>(1511° ,792°)<br>Expert Lockpick
+Link Tower<br>(1551° ,787°)<br>Everglade
+Campfire<br>(1554° ,790°)<br>Overgrown Depot
+Fuel Cell<br>(1775° ,787°)<br>The Reaper at the Holiday Resort
+Tomb<br>(139° ,809°)
+Campfire<br>(233° ,812°)<br>Mercury Installation Campfire
+Fabricator<br>(238° ,815°)<br>Recipe: [Digital Wrist Watch]
+Fishing Spot<br>(443° ,813°)<br>Good Spot
+Tomb<br>(645° ,811°)<br>Winding Pathways
+Buried Treasure<br>(942° ,809°)<br><br>Drops: [6 x Rubber, 2 x Iron]
+Campfire<br>(1276° ,816°)<br>Volcano Mouth Temple
+Radio<br>(1511° ,805°)
+Fishing Spot<br>(1509° ,818°)<br>Common Spot
+Radio<br>(1589° ,808°)
+Farmable<br>(1594° ,814°)
+Farmable<br>(1598° ,814°)
+Farmable<br>(1598° ,810°)
+Farmable<br>(1598° ,808°)
+Myth Tablet<br>(1660° ,802°)
+Radio<br>(1764° ,812°)
+Fishing Spot<br>(148° ,826°)<br>Common Spot
+Main Quest<br>(244° ,821°)<br>Displaced
+Rift<br>(251° ,826°)
+Campfire<br>(308° ,826°)<br>Military Base South Campfire
+Fishing Spot<br>(370° ,827°)<br>Common Spot
+Buried Treasure<br>(847° ,820°)<br><br>Drops: [12 x Fabric, 10 x Hide]
+Campfire<br>(952° ,833°)<br>Expedition Basecamp
+Audio Log<br>(945° ,824°)<br>Basecamp
+Tomb<br>(1030° ,826°)
+Rift<br>(1146° ,839°)
+Timed Chest<br>(1169° ,825°)<br><br>Time Available: 22 seconds<br>Rewards: [25 x Potato, 15 x Steel, 10 x Rubber]
+Rift<br>(1179° ,833°)
+Rift<br>(1164° ,822°)
+Boss<br>(1293° ,826°)<br>The Old Loyal Champion
+Drawbridge<br>(1626° ,832°)
+Buried Treasure<br>(1643° ,835°)<br><br>Drops: [8 x Iron]
+Wishing Well<br>(1684° ,838°)
+Campfire<br>(1084° ,842°)<br>Temple Pass
+Audio Log<br>(1087° ,843°)<br>Temple Pass Message
+Link Tower<br>(1172° ,848°)<br>Serpent's Crossing
+Audio Log<br>(1175° ,858°)<br>Beachhead Message
+Audio Log<br>(1305° ,852°)<br>Resting Place Message
+Radio<br>(1573° ,841°)
+Buried Treasure<br>(1562° ,853°)<br>To: Sphynx's Steps
+Buried Treasure<br>(1603° ,855°)<br><br>Drops: [6 x Hide]
+Audio Log<br>(1020° ,867°)<br>Dig Site B
+Buried Treasure<br>(1038° ,874°)<br>To: Precision Peril
+Campfire<br>(1187° ,868°)<br>Beachhead Station
+Drawbridge<br>(1203° ,869°)
+Arena Obelisk<br>(1254° ,878°)<br>Wave 1 Rewards: [20 x Iron]<br>Wave 2 Rewards: [14 x Scrap Electronics]<br>Wave 3 Rewards: [10 x Steel]<br>Wave 4 Rewards: [7 x Electronics]<br>Wave 5 Rewards: [1 x Mana Shard]
+Campfire<br>(1272° ,868°)<br>Mountain Path Entrance
+Audio Log<br>(1275° ,867°)<br>Volcano Path Entrance Message
+Fishing Spot<br>(1299° ,876°)<br>Common Spot
+Buried Treasure<br>(1327° ,875°)<br><br>Drops: [6 x Rubber, 4 x Electronics]
+Fishing Spot<br>(1342° ,877°)<br>Legendary Spot
+Tomb<br>(1632° ,866°)
+Campfire<br>(1678° ,860°)<br>Southern Tip
+Fishing Spot<br>(1701° ,866°)<br>Legendary Spot
+Buried Treasure<br>(1033° ,889°)<br><br>Drops: [8 x Ceramics, 12 x Iron, 12 x Wood]
+Timed Chest<br>(1055° ,890°)<br><br>Time Available: 25 seconds<br>Rewards: [1 x Titanium]
+Fishing Spot<br>(1098° ,899°)<br>Good Spot
+Buried Treasure<br>(1126° ,890°)<br><br>Drops: [6 x Hide, 3 x Bone]
+Fishing Spot<br>(1189° ,882°)<br>Common Spot
+Fixable<br>(1314° ,892°)<br>Required Materials: [8 x Lumber]
+Fishing Spot<br>(1629° ,892°)<br>Good Spot
+Boss<br>(933° ,340°)<br>The Toxic Destroyer
+Side Quest<br>(1032° ,339°)<br>Under and Out
+Entryway<br>(982° ,352°)<br>Crown Station Elevator
+Campfire<br>(1007° ,353°)<br>Elevator Bridge Campfire
+Terminal<br>(1010° ,346°)
+Entryway<br>(890° ,372°)<br>Entrance Undercrown West
+Campfire<br>(930° ,371°)<br>Tunnel West Entrance Campfire
+Buried Treasure<br>(972° ,367°)
+Entryway<br>(1076° ,372°)<br>Entrance Undercrown East
+Campfire<br>(1066° ,370°)<br>Tunnel East Entrance
+Timed Chest<br>(888° ,386°)<br><br>Time Available: 15 seconds<br>Rewards: [1 x Blue Eye Orb]
+Buried Treasure<br>(1009° ,396°)
+Buried Treasure<br>(954° ,428°)
+Campfire<br>(975° ,428°)<br>Old Mines campfire
+Buried Treasure<br>(992° ,426°)
+Campfire<br>(454° ,66°)<br>Crystal Caves
+Rift<br>(458° ,69°)
+Rift<br>(466° ,67°)
+Mana Chamber<br>(478° ,68°)<br><br>Enemy Drops: [2 x Plant Matter]<br>Random Enemy Drops: [1 x Scrap Wood, 1 x Scrap Metal, 2 x Plant Matter, 1 x Mana Bead, 1 x Plastics]
+Boss<br>(481° ,65°)<br>The Slick Swindler
+Campfire<br>(626° ,78°)<br>Safe Haven
+Fishing Spot<br>(633° ,75°)<br>Mana Spot
+Farmable<br>(366° ,100°)
+Energy Relay<br>(661° ,94°)
+Farmable<br>(368° ,102°)
+Farmable<br>(366° ,102°)
+Side Quest<br>(366° ,102°)<br>Farming with Enhanced Seed Bag
+Stash<br>(425° ,105°)<br><br>Stash Search Rewards: [5 x Steel,  5 x Lumber,  5 x Electronics]<br>Stash Drops: [3 x Scrap Wood]
+Drawbridge<br>(673° ,104°)
+Mana Chamber<br>(664° ,110°)<br><br>Enemy Drops: [5 x Plant Matter, 1 x Common Roach, 1 x Red Herring, 1 x Lumber, 2 x Wood, 4 x Scrap Wood, 2 x Wheat, 1 x Lobster, 1 x Lumber]<br>Random Enemy Drops: [4 x Lobster]
+Fishing Spot<br>(674° ,108°)<br>Mana Spot
+Side Quest<br>(684° ,109°)<br>Sawmill Building Basics
+Fixable<br>(384° ,123°)<br>Required Materials: [3 x Lumber]
+Campfire<br>(391° ,128°)<br>Hidden Workshop
+Campfire<br>(538° ,120°)<br>Glimpse
+Campfire<br>(667° ,136°)<br>Colony of the Divided
+Fixable<br>(684° ,137°)<br>Required Materials: [6 x Lumber]
+Stash<br>(709° ,126°)<br><br>Stash Search Rewards: [5 x Lumber, 5 x Rubber, 5 x Plastics]<br>Stash Drops: [1 x Scrap Fabric, 1 x Scrap Wood]
+Buried Treasure<br>(746° ,137°)<br><br>Drops: [10 x Bone, 10 x Meat]
+Stash<br>(764° ,126°)<br><br>Stash Search Rewards: [6 x Electronics, 8 x Steel]<br>Stash Drops: [1 x Blue Eye Orb]
+Wishing Well<br>(424° ,148°)
+Fishing Spot<br>(483° ,142°)<br>Mana Spot
+Stash<br>(582° ,159°)<br><br>Stash Search Rewards: [5 x Steel,  5 x Lumber]<br>Stash Drops: [3 x Scrap Wood]
+Audio Log<br>(676° ,142°)<br>Underworld Fate
+Arena Obelisk<br>(750° ,157°)<br>Wave 1 Rewards: [18 x Wood]<br>Wave 2 Rewards: [10 x Rubber]<br>Wave 3 Rewards: [5 x Steel]<br>Wave 4 Rewards: [3 x Lumber]<br>Wave 5 Rewards: [1 x Mana Shard]
+Campfire<br>(794° ,157°)<br>Scavenger Hamlet
+Stash<br>(522° ,162°)<br><br>Stash Search Rewards: [5 x Steel,  5 x Lumber]<br>Stash Drops: [3 x Scrap Wood]
+Buried Treasure<br>(532° ,175°)<br><br>Drops: [5 x Red Mushroom, 5 x Electronics, 2 x Lumber]
+Fishing Spot<br>(736° ,162°)<br>Mana Spot
+Fishing Spot<br>(765° ,179°)<br>Legendary Mana Spot
+Side Quest<br>(793° ,165°)<br>Vault into Past
+Fishing Spot<br>(814° ,162°)<br>Mana Spot
+Buried Treasure<br>(470° ,184°)<br><br>Drops: [15 x Rubber, 5 x Electronics]
+Buried Treasure<br>(650° ,186°)<br><br>Drops: [2 x Steel, 10 x Fabric]
+Buried Treasure<br>(658° ,193°)<br>To: Blade Runner's Maze
+Doghouse<br>(773° ,194°)
+Buried Treasure<br>(376° ,208°)<br><br>Drops: [1 x Mana Shard, 5 x Fabric]
+Fishing Spot<br>(396° ,208°)<br>Good Spot
+Audio Log<br>(572° ,207°)<br>Underworld Rumors
+Audio Log<br>(606° ,217°)<br>Underworld Doc
+Fixable<br>(634° ,212°)<br>Required Materials: [4 x Lumber]
+Campfire<br>(623° ,215°)<br>Broken Railroad
+Drawbridge<br>(656° ,206°)
+Buried Treasure<br>(665° ,215°)<br><br>Drops: [3 x Steel, 5 x Rubber]
+Timed Chest<br>(725° ,219°)<br><br>Time Available: 18 seconds<br>Rewards: [1 x Mana Chunk, 2 x Titanium]
+Wishing Well<br>(754° ,218°)
+Shelter<br>(797° ,213°)
+Timed Chest<br>(788° ,215°)<br><br>Time Available: 27 seconds<br>Rewards: [6 x Lumber, 10 x Steel, 1 x Mana Chunk]
+Buried Treasure<br>(807° ,216°)<br><br>Drops: [4 x Steel, 12 x Rubber, 25 x Ceramics]
+Buried Treasure<br>(842° ,215°)<br><br>Drops: [5 x Mana Bead, 2 x Titanium]
+Buried Treasure<br>(396° ,235°)<br>To: The Perilous Labyrinth
+Fishing Spot<br>(464° ,236°)<br>Good Spot
+Mana Chamber<br>(508° ,228°)<br><br>Enemy Drops: [1 x Fabric, 2 x Wood, 1 x Wood, 1 x Scrap Fabric, 2 x Iron, 1 x Iron, 4 x Plant Matter, 1 x Lumber]<br>Random Enemy Drops: [1 x Mana Bead, 1 x Steel]
+Rift<br>(610° ,223°)
+Side Quest<br>(640° ,226°)<br>Sawmill Building Basics
+Farmable<br>(648° ,228°)
+Farmable<br>(650° ,230°)
+Farmable<br>(644° ,230°)
+Rift<br>(729° ,223°)
+Rift<br>(774° ,235°)
+Entryway<br>(99° ,251°)<br>Underworld Island Entrance
+Campfire<br>(112° ,240°)<br>Island In the End
+Campfire<br>(357° ,256°)<br>Beachtop
+Fishing Spot<br>(376° ,252°)<br>Mana Spot
+Mana Chamber<br>(414° ,251°)<br><br>Enemy Drops: [2 x Rubber, 4 x Iron, 2 x Lumber, 1 x Scrap Fabric, 1 x Plastics]<br>Random Enemy Drops: [1 x Mana Bead, 1 x Steel]
+Stash<br>(433° ,255°)<br><br>Stash Search Rewards: [5 x Steel, 10 x Rubber]<br>Stash Drops: [3 x Scrap Wood]
+Campfire<br>(449° ,241°)<br>Jalopy Station
+Campfire<br>(501° ,258°)<br>Overrun Barricades
+Drawbridge<br>(538° ,248°)
+Drawbridge<br>(573° ,248°)
+Link Tower<br>(608° ,251°)<br>Capper
+Energy Relay<br>(612° ,255°)
+Campfire<br>(736° ,252°)<br>Basin of Solitude
+Stash<br>(777° ,250°)<br><br>Stash Search Rewards: [10 x Steel, 8 x Electronics, 2 x Titanium]<br>Stash Drops: [1 x Scrap Metal, 1 x Scrap Wood]
+Mana Chamber<br>(836° ,257°)<br><br>Enemy Drops: [1 x Lobster, 1 x Lobster, 1 x Lumber, 2 x Wood, 1 x Mana Bead, 3 x Wood, 5 x Scrap Wood, 2 x Plant Matter, 1 x Scrap Wood]<br>Random Enemy Drops: [3 x Lobster, 1 x Mana Bead]
+Energy Relay<br>(885° ,242°)
+Drawbridge<br>(414° ,264°)
+Energy Relay<br>(449° ,270°)
+Campfire<br>(558° ,280°)<br>Crownsville
+Campfire<br>(614° ,262°)<br>Ivory Mountain Co.
+Link Tower<br>(688° ,270°)<br>Dexter
+Rift<br>(725° ,271°)
+Rift<br>(761° ,260°)
+Buried Treasure<br>(798° ,276°)<br><br>Drops: [1 x Mana Shard, 12 x Lumber]
+Campfire<br>(851° ,279°)<br>Farm of Desolation
+Drawbridge<br>(398° ,286°)
+Campfire<br>(384° ,281°)<br>Knot Shores
+Buried Treasure<br>(426° ,287°)<br><br>Drops: [8 x Iron, 8 x Rubber, 1 x Mana Bead]
+Mana Chamber<br>(494° ,298°)<br><br>Enemy Drops: [2 x Rubber, 2 x Iron, 1 x Fabric, 1 x Lobster, 1 x Steel, 3 x Scrap Metal]<br>Random Enemy Drops: [1 x Mana Bead]
+Drawbridge<br>(521° ,292°)
+Audio Log<br>(540° ,283°)<br>Underworld Divide
+Audio Log<br>(586° ,290°)<br>Underworld Ivory
+Stash<br>(661° ,285°)<br><br>Stash Search Rewards: [5 x Carrot, 5 x Corn, 5 x Tomato, 5 x Berries, 1 x Lobster]<br>Stash Drops: [1 x Blue Eye Orb]
+Rift<br>(748° ,296°)
+Rift<br>(772° ,283°)
+Drawbridge<br>(828° ,286°)
+Farmable<br>(856° ,292°)
+Farmable<br>(856° ,294°)
+Farmable<br>(858° ,290°)
+Stash<br>(424° ,314°)<br><br>Stash Search Rewards: [1 x Blue Eye Orb]<br>Stash Drops: [1 x Blue Eye Orb]
+Energy Relay<br>(554° ,315°)
+Drawbridge<br>(556° ,300°)
+Locked Door<br>(625° ,305°)<br>Doc's House Key
+Farmable<br>(624° ,316°)
+Farmable<br>(626° ,316°)
+Farmable<br>(624° ,314°)
+Side Quest<br>(620° ,312°)<br>Farming with Enhanced Seed Bag
+Timed Chest<br>(640° ,313°)<br><br>Time Available: 30 seconds<br>Rewards: [1 x Blue Eye Orb, 1 x Titanium]
+Campfire<br>(665° ,306°)<br>Gorge of the Undead
+Buried Treasure<br>(721° ,312°)
+Rift<br>(782° ,310°)
+Fishing Spot<br>(782° ,312°)<br>Legendary Mana Spot
+Fishing Spot<br>(814° ,313°)<br>Mana Spot
+Timed Chest<br>(801° ,318°)<br><br>Time Available: 29 seconds<br>Rewards: [2 x Titanium, 10 x Lumber]
+Side Quest<br>(487° ,334°)<br>Desperate Existence
+Locked Door<br>(549° ,321°)<br>Town Station Key
+Drawbridge<br>(576° ,338°)
+Audio Log<br>(564° ,327°)<br>Underworld Relays
+Doghouse<br>(590° ,325°)
+Buried Treasure<br>(642° ,334°)<br>To: The Abandoned Maze
+Audio Log<br>(723° ,339°)<br>Underworld Spirits
+Buried Treasure<br>(739° ,328°)<br><br>Drops: [1 x Mana Shard, 4 x Titanium, 30 x Plastics]
+Stash<br>(768° ,329°)<br><br>Stash Search Rewards: [5 x Steel, 5 x Mana Bead, 2 x Mana Chunk]<br>Stash Drops: [1 x Scrap Wood, 1 x Scrap Fabric]
+Rift<br>(771° ,339°)
+Rift<br>(799° ,330°)
+Buried Treasure<br>(420° ,356°)<br><br>Drops: [5 x Hide, 5 x Fabric]
+Energy Relay<br>(451° ,356°)
+Campfire<br>(480° ,346°)<br>Passage Valley
+Side Quest<br>(526° ,358°)<br>Smelter Building Basics
+Fixable<br>(542° ,343°)<br>Required Materials: [3 x Lumber]
+Mana Chamber<br>(697° ,347°)<br><br>Enemy Drops: [1 x Blue Eye Orb]<br>Random Enemy Drops: [1 x Blue Eye Orb]
+Main Quest<br>(696° ,345°)<br>Spirit Trouble
+Link Tower<br>(449° ,366°)<br>Sinister
+Stash<br>(631° ,368°)<br><br>Stash Search Rewards: [10 x Egg, 5 x Wheat, 5 x Tomato, 2 x Spices]<br>Stash Drops: [1 x Scrap Wood, 1 x Scrap Fabric]
+Campfire<br>(730° ,362°)<br>Shattered Suburbs
+Rift<br>(758° ,374°)
+Fishing Spot<br>(788° ,362°)<br>Mana Spot
+Stash<br>(468° ,400°)<br><br>Stash Search Rewards: [5 x Potato, 3 x Hide, 5 x Fabric, 2 x Steel]<br>Stash Drops: [1 x Scrap Wood]
+Fishing Spot<br>(509° ,382°)<br>Mana Spot
+Arena Obelisk<br>(530° ,384°)<br>Wave 1 Rewards: [18 x Wood]<br>Wave 2 Rewards: [10 x Rubber]<br>Wave 3 Rewards: [5 x Steel]<br>Wave 4 Rewards: [4 x Lumber]<br>Wave 5 Rewards: [2 x Mana Shard]
+Campfire<br>(582° ,384°)<br>Scarp of Thieves
+Campfire<br>(427° ,414°)<br>Underworld Entryway
+Audio Log<br>(435° ,411°)<br>Underworld Explorers
+Buried Treasure<br>(506° ,410°)
+Buried Treasure<br>(553° ,407°)
+Buried Treasure<br>(564° ,413°)<br>Required Quest: Desperate Existence [Side Quest]<br><br>Drops: [1 x Scrap Fabric]
+Entryway<br>(402° ,423°)<br>Entrance Underworld
+Buried Treasure<br>(448° ,437°)<br><br>Drops: [5 x Hide, 5 x Rubber]
+Buried Treasure<br>(516° ,433°)
+Mana Chamber<br>(552° ,426°)<br><br>Enemy Drops: [1 x Blue Eye Orb]<br>Random Enemy Drops: [1 x Blue Eye Orb]
+Fishing Spot<br>(516° ,443°)<br>Mana Spot
+Fishing Spot<br>(194° ,49°)<br>Doomsday's Common Spot
+Fishing Spot<br>(315° ,57°)<br>Doomsday's Good Spot
+Shelter<br>(211° ,74°)
+Terminal<br>(462° ,79°)
+Campfire<br>(189° ,97°)<br>The Concrete Forest
+Audio Log<br>(217° ,99°)<br>Dlc2 Introduction
+Timed Chest<br>(307° ,85°)<br><br>Time Available: 15 seconds<br>Rewards: [1 x Blue Eye Orb]
+Buried Treasure<br>(343° ,89°)<br><br>Drops: [2 x Lumber, 2 x Steel]
+Drawbridge<br>(376° ,88°)
+Campfire<br>(479° ,95°)<br>Coastlab Interior
+Fishing Spot<br>(542° ,99°)<br>Doomsday's Legendary Spot
+Campfire<br>(244° ,100°)<br>Nona Complex Interior Entrance
+Campfire<br>(330° ,110°)<br>Logistics Area
+Audio Log<br>(333° ,109°)<br>Dlc2 Success
+Timed Chest<br>(344° ,110°)<br><br>Time Available: 11 seconds<br>Rewards: [8 x Electronics, 6 x Gold Ore]
+Terminal<br>(476° ,102°)<br>Coastlab Entrance Terminal
+Timed Chest<br>(196° ,133°)<br><br>Time Available: 15 seconds<br>Rewards: [1 x Blue Eye Orb]
+Fabricator<br>(208° ,122°)<br>Recipe: [Beam Gun]
+Terminal<br>(276° ,136°)<br>Nona Defensive System Test Range Terminal
+Boss<br>(271° ,123°)<br>Computer Assisted Targeting System
+Side Quest<br>(444° ,128°)<br>Go With the Flow
+Fishing Spot<br>(484° ,126°)<br>Good Spot
+Rift<br>(806° ,139°)
+Buried Treasure<br>(116° ,151°)<br><br>Drops: [1 x Banana, 15 x Mana Bead, 8 x Ceramics]
+Terminal<br>(242° ,144°)
+Link Tower<br>(276° ,159°)<br>Nona
+Campfire<br>(290° ,142°)<br>Logistics Entrance
+Side Quest<br>(310° ,145°)<br>Sawmill Building Basics
+Fishing Spot<br>(397° ,144°)<br>Doomsday's Legendary Spot
+Buried Treasure<br>(491° ,143°)<br><br>Drops: [1 x Electronics]
+Buried Treasure<br>(505° ,155°)<br><br>Drops: [1 x Steel]
+Drawbridge<br>(508° ,143°)
+Buried Treasure<br>(513° ,150°)<br><br>Drops: [1 x Scrap Fabric]
+Buried Treasure<br>(539° ,146°)
+Terminal<br>(524° ,147°)<br>Scrapyard Entrance Terminal
+Campfire<br>(537° ,152°)<br>Scrapyard Entrance
+Fishing Spot<br>(547° ,146°)<br>Doomsday's Good Spot
+Campfire<br>(639° ,144°)<br>Morta Aerial Resupply Depot
+Fishing Spot<br>(667° ,151°)<br>Doomsday's Legendary Spot
+Buried Treasure<br>(681° ,157°)
+Timed Chest<br>(781° ,156°)<br><br>Time Available: 15 seconds<br>Rewards: [1 x Blue Eye Orb]
+Fishing Spot<br>(840° ,151°)<br>Doomsday's Legendary Spot
+Buried Treasure<br>(128° ,164°)<br><br>Drops: [4 x Wood, 6 x Rubber, 1 x Truffle]
+Side Quest<br>(143° ,172°)<br>Turn Over A New Leaf
+Doghouse<br>(144° ,166°)
+Campfire<br>(152° ,171°)<br>Collingwood
+Side Quest<br>(268° ,162°)<br>Smelter Building Basics
+Terminal<br>(298° ,162°)
+Fishing Spot<br>(302° ,168°)<br>Doomsday's Legendary Spot
+Fishing Spot<br>(331° ,161°)<br>Doomsday's Good Spot
+Fishing Spot<br>(426° ,166°)<br>Doomsday's Good Spot
+Buried Treasure<br>(479° ,166°)<br>Required Quest: On to the Scrap Heap [Side Quest]<br><br>Key Drops: [Scrapyard Entrance Key]
+Fishing Spot<br>(477° ,171°)<br>Doomsday's Good Spot
+Doghouse<br>(478° ,168°)
+Audio Log<br>(678° ,173°)<br>Dlc2 Abyss
+Fishing Spot<br>(117° ,181°)<br>Doomsday's Good Spot
+Timed Chest<br>(160° ,195°)<br><br>Time Available: 15 seconds<br>Rewards: [1 x Blue Eye Orb]
+Rift<br>(162° ,185°)
+Campfire<br>(231° ,197°)<br>Nona Complex Exterior Base
+Campfire<br>(300° ,191°)<br>Attica
+Side Quest<br>(312° ,196°)<br>Strike the Earth
+Campfire<br>(445° ,183°)<br>North of Decima Complex
+Fishing Spot<br>(539° ,193°)<br>Doomsday's Good Spot
+Side Quest<br>(554° ,182°)<br>On to the Scrap Heap
+Fishing Spot<br>(583° ,187°)<br>Doomsday's Good Spot
+Side Quest<br>(617° ,185°)<br>The Legend of the Magic Sword
+Campfire<br>(708° ,184°)<br>Morta Complex Parking Area
+Shelter<br>(758° ,186°)
+Campfire<br>(798° ,186°)<br>Temporal Laboratory Entrance
+Drawbridge<br>(784° ,192°)
+Rift<br>(813° ,182°)
+Drawbridge<br>(190° ,218°)
+Buried Treasure<br>(217° ,219°)
+Buried Treasure<br>(251° ,202°)<br><br>Drops: [4 x Gold Bar]
+Buried Treasure<br>(339° ,201°)<br><br>Drops: [6 x Scrap Electronics, 4 x Wood]
+Drawbridge<br>(376° ,200°)
+Campfire<br>(500° ,214°)<br>Personnel Dormitory
+Timed Chest<br>(536° ,215°)<br><br>Time Available: 15 seconds<br>Rewards: [1 x Blue Eye Orb]
+Campfire<br>(570° ,219°)<br>Outside Live Specimen Study
+Fishing Spot<br>(673° ,205°)<br>Doomsday's Good Spot
+Rift<br>(673° ,213°)
+Buried Treasure<br>(671° ,217°)<br><br>Drops: [8 x Gold Bar]
+Campfire<br>(752° ,211°)<br>Outside Morta Main Generator
+Terminal<br>(756° ,215°)
+Doghouse<br>(785° ,216°)
+Fishing Spot<br>(807° ,208°)<br>Doomsday's Good Spot
+Fishing Spot<br>(835° ,204°)<br>Doomsday's Legendary Spot
+Campfire<br>(151° ,230°)<br>Nona Aerial Supply Depot
+Fishing Spot<br>(242° ,233°)<br>Doomsday's Good Spot
+Drawbridge<br>(301° ,238°)
+Rift<br>(326° ,235°)
+Fishing Spot<br>(381° ,226°)<br>Doomsday's Legendary Spot
+Buried Treasure<br>(419° ,227°)<br><br>Drops: [12 x Iron, 18 x Wood]
+Timed Chest<br>(435° ,238°)<br><br>Time Available: 15 seconds<br>Rewards: [1 x Blue Eye Orb]
+Terminal<br>(502° ,224°)
+Terminal<br>(538° ,222°)<br>Live Specimen Study Area Terminal
+Rift<br>(664° ,232°)
+Terminal<br>(696° ,224°)<br>Power Generation Subcomplex Terminal
+Timed Chest<br>(775° ,239°)<br><br>Time Available: 12 seconds<br>Rewards: [1 x Blue Eye Orb]
+Entryway<br>(147° ,259°)<br>Dlc2 Drone To Main Island
+Fishing Spot<br>(161° ,247°)<br>Doomsday's Common Spot
+Buried Treasure<br>(310° ,249°)<br>Required Quest: Treasure Hunt [Side Quest]<br><br>Drops: [4 x Steel, 4 x Lumber]
+Rift<br>(315° ,246°)
+Buried Treasure<br>(377° ,248°)<br>To: Circuitry Contraption
+Terminal<br>(413° ,255°)<br>Botanical Laboratory Gate Terminal
+Fabricator<br>(418° ,252°)
+Buried Treasure<br>(436° ,254°)<br><br>Drops: [7 x Gold Ore]
+Side Quest<br>(421° ,258°)<br>Flower Power Forever
+Terminal<br>(456° ,259°)
+Boss<br>(513° ,244°)<br>
+Campfire<br>(543° ,249°)<br>Morgue
+Fishing Spot<br>(589° ,256°)<br>Doomsday's Legendary Spot
+Fishing Spot<br>(619° ,251°)<br>Doomsday's Common Spot
+Rift<br>(653° ,241°)
+Link Tower<br>(682° ,258°)<br>Morta
+Campfire<br>(689° ,254°)<br>The Gantry Entrance
+Terminal<br>(708° ,243°)<br>The Gantry Bridge Terminal
+Terminal<br>(708° ,257°)<br>The Gantry Gate Terminal
+Boss<br>(723° ,250°)<br>Gantry
+Buried Treasure<br>(813° ,257°)<br><br>Drops: [4 x Gold Bar, 1 x Central Processing Unit]
+Side Quest<br>(359° ,275°)<br>Treasure Hunt
+Campfire<br>(365° ,277°)<br>Redwicket Convenience Store
+Buried Treasure<br>(399° ,277°)<br><br>Drops: [6 x Steel, 16 x Ceramics]
+Campfire<br>(410° ,260°)<br>Outside Botanical Labs
+Link Tower<br>(443° ,277°)<br>North Decima
+Campfire<br>(450° ,263°)<br>Decima Complex Courtyard
+Terminal<br>(486° ,268°)
+Audio Log<br>(519° ,262°)<br>Dlc2 The Veil
+Terminal<br>(542° ,278°)
+Rift<br>(667° ,266°)
+Terminal<br>(686° ,262°)
+Campfire<br>(749° ,273°)<br>Morta Complex Eastern Exit
+Campfire<br>(291° ,287°)<br>Redwicket Expansion Site
+Terminal<br>(428° ,295°)
+Audio Log<br>(449° ,296°)<br>Dlc2 Promotion
+Terminal<br>(491° ,280°)
+Terminal<br>(534° ,292°)<br>Nona Logistics Area Gate Terminal
+Fishing Spot<br>(584° ,286°)<br>Good Spot
+Campfire<br>(610° ,286°)<br>Dead End Camp
+Buried Treasure<br>(628° ,282°)
+Fishing Spot<br>(635° ,291°)<br>Doomsday's Good Spot
+Rift<br>(675° ,281°)
+Buried Treasure<br>(705° ,297°)<br><br>Drops: [2 x Gold Bar, 2 x Titanium, 1 x Mana Shard]
+Audio Log<br>(726° ,293°)<br>Dlc2 Evidence
+Fishing Spot<br>(789° ,281°)<br>Doomsday's Good Spot
+Entryway<br>(838° ,291°)<br>
+Wishing Well<br>(262° ,320°)
+Drawbridge<br>(317° ,307°)
+Campfire<br>(534° ,312°)<br>Near Excavated Tomb
+Fishing Spot<br>(250° ,328°)<br>Doomsday's Good Spot
+Buried Treasure<br>(284° ,332°)<br>To: Angora Activation
+Campfire<br>(477° ,329°)<br>Decima Secure Laboratory
+Shelter<br>(482° ,329°)
+Tomb<br>(532° ,332°)
+Campfire<br>(555° ,333°)<br>Outside Drone Control Center
+Fishing Spot<br>(289° ,352°)<br>Doomsday's Common Spot
+Drawbridge<br>(362° ,350°)
+Fishing Spot<br>(383° ,357°)<br>Good Spot
+Fishing Spot<br>(413° ,348°)<br>Doomsday's Good Spot
+Fishing Spot<br>(508° ,342°)<br>Good Spot
+Campfire<br>(291° ,363°)<br>Encampment by the Beach
+Fishing Spot<br>(358° ,368°)<br>Doomsday's Good Spot
+Campfire<br>(383° ,377°)<br>Orinoko
+Fishing Spot<br>(466° ,375°)<br>Doomsday's Common Spot
+Link Tower<br>(370° ,396°)<br>South Decima
+Drawbridge<br>(402° ,398°)
+Fishing Spot<br>(440° ,418°)<br>Doomsday's Legendary Spot
+Rift<br>(134° ,40°)
+Drawbridge<br>(162° ,37°)
+Rift<br>(248° ,35°)
+Fishing Spot<br>(302° ,37°)<br>Good Spot
+Fishing Spot<br>(63° ,58°)<br>Legendary Mana Spot
+Timed Chest<br>(143° ,58°)<br><br>Time Available: 17 seconds<br>Rewards: [3 x Lumber, 1 x Mana Chunk]
+Campfire<br>(176° ,51°)<br>Frostarium Entrance
+Entryway<br>(166° ,46°)<br>Entry Winter
+Locked Door<br>(179° ,55°)<br>Expert Lockpick
+Locked Door<br>(186° ,55°)<br>Expert Lockpick
+Buried Treasure<br>(216° ,50°)<br><br>Drops: [7 x Rubber, 2 x Iron]
+Rift<br>(239° ,53°)
+Fishing Spot<br>(252° ,40°)<br>Good Spot
+Campfire<br>(296° ,56°)<br>Arboretum Gas Station
+Link Tower<br>(301° ,57°)<br>Arboretum
+Doghouse<br>(362° ,46°)
+Fishing Spot<br>(88° ,70°)<br>Good Spot
+Buried Treasure<br>(100° ,72°)<br><br>Drops: [1 x Mana Chunk]
+Boss<br>(107° ,63°)<br>The Beast of Frost
+Drawbridge<br>(122° ,63°)
+Campfire<br>(142° ,77°)<br>Frostarium Underhill
+Wishing Well<br>(150° ,66°)
+Terminal<br>(218° ,76°)<br>Frostarium Bridge Gate
+Audio Log<br>(232° ,62°)<br>Dlc3 Ad1
+Buried Treasure<br>(266° ,74°)<br><br>Drops: [7 x Berries]
+Timed Chest<br>(292° ,80°)<br><br>Time Available: 8 seconds<br>Rewards: [5 x Electronics, 5 x Lumber]
+Drawbridge<br>(315° ,80°)
+Doghouse<br>(334° ,74°)
+Buried Treasure<br>(334° ,73°)<br><br>Drops: [3 x Rubber]
+Campfire<br>(352° ,62°)<br>Arboretum Entrance
+Entryway<br>(368° ,64°)<br>Entry Forest
+Fishing Spot<br>(386° ,73°)<br>Good Spot
+Rift<br>(45° ,80°)
+Fishing Spot<br>(74° ,98°)<br>Good Spot
+Rift<br>(126° ,88°)
+Link Tower<br>(168° ,87°)<br>Frostarium
+Boss<br>(255° ,97°)<br>The Beast of Timber
+Doghouse<br>(287° ,99°)
+Doghouse<br>(287° ,98°)
+Side Quest<br>(289° ,88°)<br>Lone Wolves
+Buried Treasure<br>(316° ,92°)<br><br>Drops: [5 x Wood, 2 x Lumber]
+Farmable<br>(304° ,90°)
+Farmable<br>(306° ,92°)
+Farmable<br>(308° ,90°)
+Farmable<br>(308° ,96°)
+Farmable<br>(310° ,92°)
+Fishing Spot<br>(331° ,89°)<br>Good Spot
+Rift<br>(328° ,93°)
+Wishing Well<br>(352° ,96°)
+Audio Log<br>(358° ,84°)<br>Dlc3 Ad4
+Doghouse<br>(368° ,81°)
+Fishing Spot<br>(403° ,99°)<br>Doomsday's Common Spot
+Fishing Spot<br>(403° ,95°)<br>Doomsday's Common Spot
+Boss<br>(420° ,91°)<br>The Lab Guardian
+Doghouse<br>(49° ,114°)
+Doghouse<br>(48° ,114°)
+Rift<br>(58° ,102°)
+Timed Chest<br>(99° ,107°)<br><br>Time Available: 8 seconds<br>Rewards: [1 x Mana Chunk]
+Locked Door<br>(80° ,115°)<br>Old Vault Room Key
+Fishing Spot<br>(137° ,106°)<br>Water
+Buried Treasure<br>(158° ,104°)<br><br>Drops: [24 x Plant Matter, 12 x Bone]
+Audio Log<br>(233° ,116°)<br>Dlc3 Ad3
+Campfire<br>(248° ,119°)<br>Ward's Lab
+Drawbridge<br>(273° ,100°)
+Timed Chest<br>(262° ,117°)<br><br>Time Available: 10 seconds<br>Rewards: [2 x Mana Shard]
+Fishing Spot<br>(295° ,112°)<br>Legendary Spot
+Main Quest<br>(294° ,102°)<br>Surrounded Farm
+Fishing Spot<br>(312° ,116°)<br>Weird Spot
+Drawbridge<br>(323° ,103°)
+Rift<br>(354° ,104°)
+Fishing Spot<br>(40° ,120°)<br>Mana Spot
+Boss<br>(56° ,125°)<br>The Groundskeeper
+Campfire<br>(88° ,122°)<br>Isle of Mana Entrance
+Entryway<br>(97° ,125°)<br>Entry Dlc1
+Rift<br>(143° ,135°)
+Rift<br>(168° ,129°)
+Fishing Spot<br>(186° ,122°)<br>Weird Spot
+Locked Door<br>(204° ,134°)<br>Master Lockpick
+Link Tower<br>(232° ,120°)<br>Vivarium Nexus
+Locked Door<br>(240° ,126°)<br>Frostarium Key
+Locked Door<br>(240° ,126°)<br>Arboretum Key
+Locked Door<br>(240° ,126°)<br>Desolatum Key
+Locked Door<br>(240° ,127°)<br>Terrarium Key
+Entryway<br>(240° ,120°)<br>Entry Reward Room
+Entryway<br>(240° ,130°)<br>Pet Isle Center Elevator
+Audio Log<br>(259° ,125°)<br>Dlc3 Ad2
+Drawbridge<br>(331° ,121°)
+Campfire<br>(378° ,120°)<br>Isle of Doom North
+Locked Door<br>(404° ,130°)<br>Master Lockpick
+Locked Door<br>(412° ,130°)<br>Master Lockpick
+Doghouse<br>(427° ,135°)
+Doghouse<br>(427° ,131°)
+Doghouse<br>(427° ,132°)
+Stash<br>(42° ,159°)<br><br>Stash Search Rewards: [3 x Lobster, 1 x Titanium]<br>Stash Drops: [1 x Scrap Wood]
+Link Tower<br>(74° ,152°)<br>Isle of Mana
+Buried Treasure<br>(138° ,152°)
+Locked Door<br>(184° ,151°)<br>Master Lockpick
+Boss<br>(216° ,144°)<br>The Beast of Desolation
+Campfire<br>(214° ,156°)<br>Barracks B Truck Stop
+Boss<br>(254° ,141°)<br>The Beast of Terra
+Link Tower<br>(279° ,146°)<br>Terrarium
+Campfire<br>(272° ,154°)<br>Wisdom's Basketball Field
+Drawbridge<br>(293° ,143°)
+Buried Treasure<br>(300° ,158°)<br><br>Drops: [1 x Scrap Electronics, 1 x Corn]
+Side Quest<br>(311° ,153°)<br>Forgotten Wisdom
+Fishing Spot<br>(323° ,141°)<br>Weird Spot
+Fishing Spot<br>(336° ,156°)<br>Good Spot
+Entryway<br>(381° ,144°)<br>Entry Dlc2
+Link Tower<br>(402° ,146°)<br>Isle of Doom
+Campfire<br>(405° ,140°)<br>Isle of Doom South
+Buried Treasure<br>(64° ,166°)<br>Required Quest: The Underdog [Side Quest]<br><br>Drops: [4 x Bone, 1 x Mana Bead]
+Buried Treasure<br>(67° ,176°)<br>Required Quest: The Underdog [Side Quest]<br><br>Drops: [3 x Mana Bead, 1 x Bone]
+Buried Treasure<br>(87° ,172°)<br>Required Quest: The Underdog [Side Quest]<br><br>Drops: [4 x Bone, 1 x Mana Bead]
+Doghouse<br>(100° ,171°)
+Locked Door<br>(198° ,165°)<br>Master Lockpick
+Shelter<br>(181° ,168°)
+Link Tower<br>(216° ,161°)<br>Desolatum
+Side Quest<br>(201° ,175°)<br>Stolen Pet
+Drawbridge<br>(314° ,162°)
+Drawbridge<br>(305° ,169°)
+Rift<br>(329° ,177°)
+Buried Treasure<br>(350° ,176°)
+Rift<br>(365° ,167°)
+Fishing Spot<br>(380° ,173°)<br>Doomsday's Legendary Spot
+Doghouse<br>(408° ,175°)
+Fishing Spot<br>(429° ,172°)<br>Doomsday's Common Spot
+Locked Door<br>(420° ,169°)<br>Vault Room Key
+Buried Treasure<br>(55° ,181°)<br>Required Quest: The Underdog [Side Quest]<br><br>Drops: [4 x Bone, 1 x Mana Bead]
+Fishing Spot<br>(63° ,194°)<br>Good Spot
+Buried Treasure<br>(89° ,184°)<br>Required Quest: The Underdog [Side Quest]<br><br>Drops: [4 x Bone, 1 x Mana Bead]
+Fishing Spot<br>(142° ,191°)<br>Good Spot
+Buried Treasure<br>(154° ,184°)
+Campfire<br>(178° ,182°)<br>Desolatum Base
+Entryway<br>(166° ,188°)<br>Entry Desert
+Timed Chest<br>(206° ,199°)<br><br>Time Available: 20 seconds<br>Rewards: [3 x Mana Chunk]
+Buried Treasure<br>(226° ,184°)
+Fishing Spot<br>(262° ,182°)<br>Good Spot
+Rift<br>(287° ,190°)
+Entryway<br>(313° ,197°)<br>Entry Ancient
+Buried Treasure<br>(304° ,186°)<br><br>Drops: [2 x Plastics, 3 x Hide, 6 x Iron]
+Campfire<br>(321° ,189°)<br>Terrarium Crossroads
+Rift<br>(395° ,188°)
+Fishing Spot<br>(285° ,200°)<br>Good Spot
+Jalopy Station
+Bunker Station
+Colony Station
+Arrowhead Station
+Southern Crownsville
+Northern Crownsville
+Eastern Farmlands
+Colony of the Divided
+Foundry Point
+Crystal Caves
+Ivory Mountain Co.
+Town Station
+Doc's House
+Stray House
+Shattered Suburbs
+Lost Forest
+Apex Gasoline
+Basin of Solitude
+Cavern of Wishes
+St. Joseph's Hospital
+The Radio Royale
+Farm of Desolation
+Safe Haven
+Underworld Entryway
+Passage Valley
+Overrun Barricades
+Familiar House
+Derelict Outpost
+Hanging Wreck
+Busy Hideout
+Hidden Workshop
+Island in the End
+Gorge of the Undead
+Towerwatch
+Cabin in the voids
+Knot Shores
+Volatile Ravine
+Mortal Roundabout
+Scavenger Hamlet
+Scarp of Thieves
+Towerwatch East
+Plateau of Respite
+Cliffside Encampment
+Farm from Afar
+Redwicket Expansion Site
+Nona Aerial Resupply Depot
+Decima Aerial Resupply Depot
+Morta Aerial Resupply Depot
+Solitary Cabin
+Collingwood
+Attica
+Redwicket
+Rochester
+Harrison
+The Concrete Forest
+Nona Interior Entrance
+Cooling Substation
+Conference Area
+Engineering Section
+Theoretical Laboratories
+Defensive System Test Range
+Loading Area
+Main Power Station
+Barracks
+Administrative Area
+Personnel Dormitory
+Botanical laboratory
+Live Specimen Study
+Guest Lobby
+Maintenance Section
+Morgue
+Pipeworks
+Holding Pens
+Settlement Facsimile
+Decima Shelter Depot
+Ancient Tomb Excavation
+Decima Emergency Generator
+Drone Control Center
+Decima-Morta Transit Station
+Oninoko
+Gillespie
+Kakola
+Eastern Jungle Rampart
+Western Jungle Rampart
+Banana Plantation
+Coastlab
+Coastlab Security Station
+Coastlab Docks
+Fincher's Scrapyard
+Boreal Country House
+Auxiliary Intelligence Development
+Logistical Crane
+Morta Electrical Substation
+The Gantry Control Room
+The Gantry
+Advanced Armament Design Bureau
+Dead End Camp
+Executive Suite
+Temporal Research Laboratory
+Morta Complex Main Generator
+Rustic Serenity Settlement
+Arctic Workers' Retreat
+The Ward
+Mirage Labor Barracks
+Wisdom's Grove Academy
+Pet Cemetery
+The Lab Scientists' Villa
+Secured Retreat
+Jimmy's House
+Barracks A
+Barracks B
+Educators' Dormitory
+Students' Dormitory
+Principal's House
+Wisdom's Library
+The Bar
+The Wolf Farm
+The Caged Suburb
+The Evacuation Site
+Leisure Resort
+Corrective Facility
+Blacksite G
+Curtisfield South
+Ft. Darrow
+Curtisfield North
+Construction Site
+Wayward
+Greyhaven
+Gheens
+Little Otter
+Beaver Point
+Chalice
+Tectonic Ravine
+Wall Checkpoint Kappa
+Wall Checkpoint Rho
+Bridge Checkpoint Nu
+House Under Construction
+Unfinished House
+Housing Project
+Junction Station
+Overgrown Depot
+Supply Depot
+Frozen Link Tower Depot
+Hidden Toxic Dump
+Hazardous Materials Containment Kilo
+Soda Lovers House
+Lavish Villa
+Roadside House
+Lone House
+Wayside House
+Hermit Cabin
+Hibernus Homestead
+Packard Family Farm
+Lone Field
+Evans Farmhouse
+Tropical Farm
+Bowel Lake Camping Grounds
+Twin Lakes Camping Grounds
+Traveller Lodge
+Wilderness Cabin
+Arctic Cabin
+Stork's Pond Camping
+Maximum Gas Station
+Ratchet's Gasoline
+Undercrown Eastern Entrance
+Southern Cemetery
+Volcanic Pass
+Lava Sinkhole
+Magma Anomaly
+Krebbs' Wood & Timber
+Power Junction
+Power Station
+Lakeside Shack
+Chilly Shack
+Glendale
+Buzzle
+Felcrest
+Dona Springs
+Old Chalice
+Ruins of Ethelridge
+Frostbitten House
+Decrepit House
+Ruined House
+Mossy House
+Overgrown House
+Continental Diner
+Undercrown Western Entrance
+Frore Truck Depot
+Southern Frore Roadhouse
+Frore Naval Base
+Chalice Graveyard
+Tiny Junction Station
+Lone Log Cabin
+Badnews Bay
+Wellside Cabin
+The Ark
+Blue Ponds Roadside Motel
+Fincher's Auto Salvage
+Underfield
+Backyard Construction
+Pond Pass Site
+Brook Bridge
+Pimaville
+Dried out Farm
+Mandrake's Diamond Mine
+Grand Mansion
+Driftwood
+Eye of the Desert
+Blown Up House
+Sanctuary Farm
+West Cutter
+Pike's Steel Manufacturing
+Park Ranger's Cabin
+Pleasant Lodge
+Rotten Shack
+Hunter's Cabin
+Decayed Lodge
+Fisher's Shack
+Lost Convoy
+Crow Pond
+Fool's Canyon
+The Pinnacle and the Abyss
+Dangerous House
+Waste Canyon
+Vine Ravine Settlement
+Beachhead Station
+Temple Pass
+Temple Grounds
+Volcano Mouth Temple
+Dig Site B
+Expedition Basecamp
+Ape Rock
+Southside Apartments
+Southside Office Building
+Eastern Tenements
+Hendrick's Commerce Block
+Barrington District
+Lakeside View
+LaVey Flats
+Central Automobile Parking
+Central Railway Station
+Mighty Mall
+Private Corner
+Downtown Plaza
+Pioneer's Park
+City Hall
+Mountainside
+Graveston
+Bonafide
+Drive-In Theater
+Rocky Mountain Path Entrance
+Snowy Peak Ski Lodge
+Thick Ice
+Rugged Log Cabin
+Icy Cape Cottage
+Frosted Shack
+Utility Building
+Fortified Cabin
+Toxic Pond
+Polaris Wall Checkpoint
+Wellspring
+North Star Installation
+Frostburbs
+Sprigridge
+Central Football Stadium
+Island State Police Headquarters
+Light Industry Zone
+Heavy Industry Zone
+Central Main Power Plant
+Cityside Estate
+Luxurious Log Villa
+The Artist's House
+House On The Corner
+DIY House
+Westport Harbor Area
+The Floating Dockyard
+Lawrence Farm
+Order of the Tablet
+The Extradinerrestial Restaurant
+Gassy Jack's Gas-N-Snacks
+Allen's Farm
+Military Road Checkpoint
+Solaris Train Station
+Mercury Installation
+Dirt Path House
+Survivor Island
+Military Remnant Camp
+West Coast Fishing Village
+Dilapidated Cabin
+Arctic Research Base
+Fjord Village
+Hydroelectric Dam
+Fortified Camp
+Lower Pumping Station
+Ruined Cliffside House
+The Broken Radio Mast
+Crown Station Launch Pad
+Crown Entrance
+Collapsed Launchpad Road
+K23
+King's Study
+The Fortress Entrance
+Hidden Listening Station
+Vulcan Naval Supply Depot
+Affordable Vacation Residence
+Toxic Pools
+Caldera
+House at the Land's End
+Posh Vacation Residence
+Beach Party
+Menzies' Pass
+Cape Pass
+Tabula Rasa
+Suspicious Sinkhole
+Hedgefield Aerial Supply Depot
+Spring Peak
+Closed Up Chemical Plant
+Fortified Forest
+Noxious Containment Unit A
+Prototype Reactor Site
+Undercrown Eastern Entrance
+Undercrown Western Entrance
+Collapsed Tunnel
+Loading Area
+Lost Caverns
+Crown Station Access Elevator
